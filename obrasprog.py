@@ -8,7 +8,6 @@ def leark():
     arq = arq.split('\n')
     return arq
 
-
 lk = list()
 for i in leark():
     if 'tituloobra_id' in i:
