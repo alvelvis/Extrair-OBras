@@ -7,6 +7,7 @@ object Form1: TForm1
   Caption = 'Extrair OBras'
   ClientHeight = 159
   ClientWidth = 320
+  OnCreate = FormCreate
   OnShow = FormShow
   Position = poWorkAreaCenter
   LCLVersion = '1.8.2.0'
@@ -15,17 +16,32 @@ object Form1: TForm1
     Height = 27
     Top = 32
     Width = 276
+    AutoComplete = True
+    AutoCompleteText = [cbactEnabled, cbactEndOfLineComplete, cbactSearchAscending]
     ItemHeight = 0
     TabOrder = 0
     Text = 'Escolha aqui a OBra'
   end
   object Button1: TButton
-    Left = 120
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    Left = 123
     Height = 25
-    Top = 80
+    Top = 72
     Width = 75
     Caption = 'Procura'
     OnClick = Button1Click
     TabOrder = 1
+  end
+  object Button2: TButton
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    Left = 80
+    Height = 25
+    Top = 104
+    Width = 161
+    Caption = 'Gerar títulos novamente'
+    OnClick = Button2Click
+    TabOrder = 2
   end
 end

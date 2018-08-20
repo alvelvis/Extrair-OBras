@@ -13,8 +13,11 @@ type
 
   TForm1 = class(TForm)
     Button1: TButton;
+    Button2: TButton;
     ComboBox1: TComboBox;
     procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
     procedure FormShow(Sender: TObject);
   private
 
@@ -50,13 +53,25 @@ begin
   else
   begin
     Texto.LoadFromFile('extrair_obra.py');
-    Texto.Strings[3] := 'OBRA = "' + ComboBox1.Text + '"';
+    Texto.Strings[5] := 'OBRA = "' + ComboBox1.Text + '"';
     Texto.SaveToFile('extrair_obra.py');
-    {$IFDEF LINUX}fpsystem('python extrair_obra.py');{$ENDIF}
+    {$IFDEF LINUX}fpsystem('python3 extrair_obra.py');{$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python extrair_obra.py',[]);{$ENDIF}
-    OpenDocument(ComboBox1.Text+'.vislcg3');
+    OpenDocument('obras/'+ComboBox1.Text+'.vislcg3');
     Texto.Free;
   end;
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+  {$IFDEF LINUX}fpsystem('python3 obrasprog.py');{$ENDIF}
+  {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python obrasprog.py',[]);{$ENDIF}
+  ComboBox1.Items.LoadFromFile('titulos_obras.txt');
+end;
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+
 end;
 
 end.

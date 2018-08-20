@@ -5,7 +5,7 @@ CORPUS = "OBRAS_completo_VISL.vislcg3"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
 CODE = "latin-1"
 #CODIFICAÇÃO DA OBRA EXTRAÍDA
-CODEFINAL = "latin-1"
+CODEFINAL = "utf-8"
 #####################################################
 
 import re
