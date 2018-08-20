@@ -1,7 +1,9 @@
+# -*- coding: utf-8 -*-
+
 #ARQUIVO COM TODAS AS OBRAS DO CORPUS OBRAS
 CORPUS = 'OBRAS_completo_VISL.vislcg3'
-#OBRA ESPECÍFICA QUE O USUÁRIO QUER EXTRAIR
-OBRA = "A_Mortalha_de_Alzira"
+#OBRA ESPECÍFICA QUE O USUÁRIO DESEJA EXTRAIR
+OBRA = "Aos_vinte_anos"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
 CODE = "latin-1"
 ###########################################################################

@@ -2,7 +2,7 @@
 <obra_id="AosXUNDERSCOREXvinteXUNDERSCOREXanos_xmore>
 <obra_morex_Prosa:conto_AA_1865">
 <tituloobra_id="Aos_vinte_anos">
-<autor_id="Aluï¿½sio_Azevedo">
+<autor_id="Alu�sio_Azevedo">
 <u>
 <s>
 <t>
@@ -28,8 +28,8 @@
 	"sobre" <f:186651> <fr:100> PRP @<ADVL
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<chï¿½cara>"
-	"chï¿½cara" <f:44> <build> <U:QE> <BB> <fr:100> N F S @P<
+"<ch�cara>"
+	"ch�cara" <f:44> <build> <U:QE> <BB> <fr:100> N F S @P<
 "<$.>"
 </s>
 </u>
@@ -43,8 +43,8 @@
 "<cheiro>"
 	"cheiro" <f:1295> <percep-o> <f> <+de> <fr:99> N M S @SUBJ>
 "<de>"
-	"de" <f:8537237> <+mat> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<resedï¿½s>"
+	"de" <f:8537237> <+mat> <fr:100> PRP �NP-CLOSE @N<
+"<resed�s>"
 	"seda" <ALT:resedas> <Rare> <mat-cloth> <D:bo> <BR.H> <anbo> <DERP re- [AG+]> <f:0> N F P @P<
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
@@ -62,7 +62,7 @@
 	"quarto" <f:4670> <Lh> <per> <fr:35> N M S @P<
 "<$,>"
 "<de>"
-	"de" <f:8537237> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<PRED
+	"de" <f:8537237> <+top> <fr:100> PRP �NP-CLOSE @N<PRED
 "<camaradagem>"
 	"camaradagem" <f:119> <am> <fr:100> N F S @P<
 "<com>"
@@ -72,16 +72,16 @@
 "<sol>"
 	"sol" <f:3576> <Lstar> <D:mu> <ac-sign> <percep-l> N M S <cm> <cur> <fr:100> @P<
 "<$,>"
-"<tï¿½o>"
-	"tï¿½o" <f:36530> <dem> <quant> <KOMP> <igual> <fr:100> ADV @>A
+"<t�o>"
+	"t�o" <f:36530> <dem> <quant> <KOMP> <igual> <fr:100> ADV @>A
 "<confundidos>"
-	"confundir" <f:101> <vt> <jn> <ADJ> <vH> <fr:97> V-REGENTE PCP M P ï¿½NP-CLOSE @N<PRED
+	"confundir" <f:101> <vt> <jn> <ADJ> <vH> <fr:97> V-REGENTE PCP M P �NP-CLOSE @N<PRED
 "<que>"
-	"que" <clb-fs> <f:968748> <consec> <komp> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <consec> <komp> <fr:89> KS �CLB @SUB
 "<parecia>"
 	"parecer" <fr:100> <f:4179> <vK> <qvd> <sA> <sH> <ink> <vdK> <mv> V-REGIDO IMPF 3S IND VFIN @FS-KOMP<
 "<que>"
-	"que" <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <f:0> <rel> <fr:0> SPEC M S �CLB @SUBJ>
 "<era>"
 	"ser" <fr:96> <f:80296> <vK> <sN> <fmc> <mv> V-REGIDO IMPF 3S IND VFIN @FMV
 "<o>"
@@ -89,13 +89,13 @@
 "<sol>"
 	"sol" <f:3576> <Lstar> <D:mu> <ac-sign> <percep-l> N M S <cm> <cur> <fr:100> @<SC
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @SUBJ> @ACC>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @SUBJ> @ACC>
 "<estava>"
-	"estar" <fr:100> <f:37186> <x+GER> <aux> V IMPF 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"estar" <fr:100> <f:37186> <x+GER> <aux> V IMPF 3S IND VFIN �NP-CLOSE @FS-N<
 "<recendendo>"
-	"recender" <Rare> <vN> <vt> <f:0> <mv> V IMPF PROG 3S IND COMP ï¿½CLB @ICL-AUX<
+	"recender" <Rare> <vN> <vt> <f:0> <mv> V IMPF PROG 3S IND COMP �CLB @ICL-AUX<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<SC @<ADVL
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<SC @<ADVL
 "<aquele>"
 	"aquele" <f:26436> <-sam> <dem> <fr:100> DET M S @>N
 "<modo>"
@@ -108,8 +108,8 @@
 
 "<vinham>"
 	"vir" <fr:100> <f:65> <*> <vi> <ink> <fmc> <mv> V IMPF 3P IND VFIN @FMV
-"<ï¿½brios>"
-	"ï¿½brio" <f:9> <Rare> <h> <jh> <+de> <fr:56> ADJ M P @<PRED
+"<�brios>"
+	"�brio" <f:9> <Rare> <h> <jh> <+de> <fr:56> ADJ M P @<PRED
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @A<
 "<Abril>"
@@ -133,9 +133,9 @@
 "<boca>"
 	"boca" <f:3145> <anmov> <Lopening> <fr:100> N F S @P<
 "<vermelha>"
-	"vermelho" <f:1071> <col> <jn> <fr:99> ADJ F S ï¿½NP-CLOSE @N<
+	"vermelho" <f:1071> <col> <jn> <fr:99> ADJ F S �NP-CLOSE @N<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<as>"
 	"o" <f:1296756> <-sam> <art> <fr:100> DET F P @>N
 "<rosas>"
@@ -152,10 +152,10 @@
 	"e" <fr:100> <f:2349620> <clb> KC @CO
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<repï¿½blica>"
-	"repï¿½blica" <f:3367> <HH> <fr:99> N F S @SUBJ>
+"<rep�blica>"
+	"rep�blica" <f:3367> <HH> <fr:99> N F S @SUBJ>
 "<de>"
-	"de" <f:8537237> <sam-> <+top> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+top> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<as>"
 	"o" <f:1296756> <-sam> <art> <fr:100> DET F P @>N
 "<asas>"
@@ -171,13 +171,13 @@
 "<conflito>"
 	"conflito" <f:9600> <fight> <+com> <event> <fr:100> N M S @P<
 "<com>"
-	"com" <f:824934> <U:G> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"com" <f:824934> <U:G> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<repï¿½blica>"
-	"repï¿½blica" <f:3367> <HH> <fr:99> N F S @P<
+"<rep�blica>"
+	"rep�blica" <f:3367> <HH> <fr:99> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+il> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+il> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<as>"
 	"o" <f:1296756> <-sam> <art> <fr:100> DET F P @>N
 "<folhas>"
@@ -195,28 +195,28 @@
 "<$,>"
 "<como>"
 	"como" <com> <f:161129> <adv-rel> <fr:33> PRP @<ADVL
-"<pï¿½talas>"
-	"pï¿½tala" <asarg> <f:108> <anbo> <D:bo> <fr:100> N F P @P<
+"<p�talas>"
+	"p�tala" <asarg> <f:108> <anbo> <D:bo> <fr:100> N F P @P<
 "<vivas>"
-	"vivo" <f:813> <jn> <fr:81> ADJ F P ï¿½NP-CLOSE @N<
+	"vivo" <f:813> <jn> <fr:81> ADJ F P �NP-CLOSE @N<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<flores>"
 	"flor" <f:1999> <Bflo> <cm> <fr:100> N F P @P<
 "<animadas>"
-	"animar" <f:210> <vt> <ADJ> <jn> <fr:78> V PCP F P ï¿½NP-CLOSE @N< %EMO:FELIZ %DIZER
+	"animar" <f:210> <vt> <ADJ> <jn> <fr:78> V PCP F P �NP-CLOSE @N< %EMO:FELIZ %DIZER
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @SUBJ>
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3P ACC @ACC>
 "<desprendessem>"
-	"desprender" <f:0> <Rare> <sN> <vr> <mv> <v-pron> V IMPF 3P SUBJ VFIN ï¿½NP-CLOSE @FS-N<
+	"desprender" <f:0> <Rare> <sN> <vr> <mv> <v-pron> V IMPF 3P SUBJ VFIN �NP-CLOSE @FS-N<
 "<de>"
-	"de" <f:8537237> <sam-> <+top> <+tï¿½j> <fr:100> PRP @<ADVL
+	"de" <f:8537237> <sam-> <+top> <+t�j> <fr:100> PRP @<ADVL
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<haste>"
-	"haste" <f:61> <cc-stick> <D:sï¿½> <anzo> <anbo> <part-build> <fr:100> N F S @P<
+	"haste" <f:61> <cc-stick> <D:s�> <anzo> <anbo> <part-build> <fr:100> N F S @P<
 "<$.>"
 </s>
 </u>
@@ -231,14 +231,14 @@
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
-"<xï¿½cara>"
-	"xï¿½cara" <f:23> <con> <U:NAU> <fr:100> N F S @<ACC
+"<x�cara>"
+	"x�cara" <f:23> <con> <U:NAU> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<cafï¿½>"
-	"cafï¿½" <f:3418> <drink> <D:kul> <D:bo> <build> <fr:100> N M S @P<
+	"de" <f:8537237> <+top> <fr:100> PRP �NP-CLOSE @N<
+"<caf�>"
+	"caf�" <f:3418> <drink> <D:kul> <D:bo> <build> <fr:100> N M S @P<
 "<quente>"
-	"quente" <f:581> <jn> <fr:100> ADJ M S ï¿½NP-CLOSE @N<
+	"quente" <f:581> <jn> <fr:100> ADJ M S �NP-CLOSE @N<
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<acendi>"
@@ -257,13 +257,13 @@
 "<leitura>"
 	"leitura" <f:7996> <sem-r> <D:mu> <activity> <fr:100> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
 "<jornais>"
 	"jornal" <f:7815> <sem-r> <fr:100> N M P @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<dia>"
@@ -294,11 +294,11 @@
 "<lado>"
 	"lado" <f:26597> <Labs> <do+> <fr:100> N M S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
-"<vizinhanï¿½a>"
-	"vizinhanï¿½a" <f:637> <Lciv> <fr:100> N F S @P<
+"<vizinhan�a>"
+	"vizinhan�a" <f:637> <Lciv> <fr:100> N F S @P<
 "<$,>"
 "<dei>"
 	"dar" <fr:100> <f:690> <com^vp> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
@@ -307,15 +307,15 @@
 "<os>"
 	"o" <f:1931758> <dem> <fr:98> DET M P @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<alguï¿½m>"
-	"alguï¿½m" <f:10265> <enum> <hum> <fr:100> SPEC M S @P<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
+"<algu�m>"
+	"algu�m" <f:10265> <enum> <hum> <fr:100> SPEC M S @P<
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S �CLB @SUBJ>
 "<me>"
 	"eu" <f:66998> <fr:100> PERS M/F 1S ACC @ACC>
 "<fitava>"
-	"fitar" <fr:100> <f:5> <Rare> <vt> <vH> <mv> V IMPF 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"fitar" <fr:100> <f:5> <Rare> <vt> <vH> <mv> V IMPF 3S IND VFIN �NP-CLOSE @FS-N<
 "<$;>"
 "<fiz>"
 	"fazer" <fr:100> <f:2458> <vtK> <D:tea> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
@@ -323,23 +323,23 @@
 	"com" <f:824934> <U:G> <fr:100> PRP @<ADVL
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<cabeï¿½a>"
-	"cabeï¿½a" <f:10225> <anmov> <cc> <pos-soc> <Azo> <fr:100> N F S @P<
+"<cabe�a>"
+	"cabe�a" <f:10225> <anmov> <cc> <pos-soc> <Azo> <fr:100> N F S @P<
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
 "<cumprimento>"
 	"cumprimento" <f:4476> <act> <fr:95> N M S @<ACC
 "<quase>"
 	"quase" <f:41996> <quant> <fr:100> ADV @>A
-"<involuntï¿½rio>"
-	"involuntï¿½rio" <f:195> <nh> <jn> <fr:100> ADJ M S @<OC
+"<involunt�rio>"
+	"involunt�rio" <f:195> <nh> <jn> <fr:100> ADJ M S @<OC
 "<$,>"
 "<e>"
 	"e" <fr:100> <f:2349620> <clb> KC @CO
 "<fui>"
 	"ser" <fr:50> <f:3928> <vK> <sN> <fmc> <mv> V PS 1S IND VFIN @FMV
 "<de>"
-	"de" <+tï¿½j> <sam-> PRP @<SC
+	"de" <+t�j> <sam-> PRP @<SC
 "<este>"
 	"este" <dem> <-sam> DET M S @>N
 "<bem>"
@@ -348,7 +348,7 @@
 	"pagar" <n> <f:1826> <vt> <vH> <fr:86> V PCP M S @P<
 "<$,>"
 "<porque>"
-	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS ï¿½CLB @SUB
+	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS �CLB @SUB
 "<recebi>"
 	"receber" <fr:100> <f:764> <vt> <ink> <vH> <mv> V PS 1S IND VFIN @FS-<ADVL
 "<outro>"
@@ -360,7 +360,7 @@
 "<juros>"
 	"juro" <f:5455> <amount> <mon> <fr:100> N M P @P<
 "<de>"
-	"de" <f:8537237> <quant+> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <quant+> <fr:100> PRP �NP-CLOSE @N<
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
 "<sorriso>"
@@ -372,7 +372,7 @@
 "<ou>"
 	"ou" <fr:100> <f:215297> KC @CO
 "<porque>"
-	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS ï¿½CLB @SUB
+	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS �CLB @SUB
 "<aquele>"
 	"aquele" <f:26436> <dem> <fr:100> DET M S @>N
 "<sorriso>"
@@ -389,10 +389,10 @@
 	"como" <com> <f:161129> <adv-rel> <fr:33> PRP @A<
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<manhï¿½>"
-	"manhï¿½" <asarg> <f:9352> <temp> <per> <fr:100> N F S @P<
+"<manh�>"
+	"manh�" <asarg> <f:9352> <temp> <per> <fr:100> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<aquele>"
 	"aquele" <f:26436> <-sam> <dem> <fr:100> DET M S @>N
 "<abril>"
@@ -401,11 +401,11 @@
 "<ou>"
 	"ou" <fr:100> <f:215297> KC @CO
 "<porque>"
-	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS ï¿½CLB @SUB
+	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS �CLB @SUB
 "<aquela>"
 	"aquele" <f:22509> <dem> <fr:98> DET F S @>N
-"<manhï¿½>"
-	"manhï¿½" <f:9352> <temp> <per> <fr:100> N F S @ADVL>
+"<manh�>"
+	"manh�" <f:9352> <temp> <per> <fr:100> N F S @ADVL>
 "<era>"
 	"ser" <fr:96> <f:80296> <vK> <sN> <ink> <mv> V IMPF 3S IND VFIN @FS-ADVL>
 "<alegre>"
@@ -421,23 +421,23 @@
 "<sorriso>"
 	"sorriso" <asarg> <f:1687> <act-d> <fr:100> N M S @P< %EMO:FELIZ
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @ACC>
 "<dasabotoou>"
-	"dasabot" <foreign> <f:0> <Rare> <RareBase> <DERS -oar [CAUSE]> <sH> <sA> <ink> <mv> V PS 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"dasabot" <foreign> <f:0> <Rare> <RareBase> <DERS -oar [CAUSE]> <sH> <sA> <ink> <mv> V PS 3S IND VFIN �NP-CLOSE @FS-N<
 "<em>"
 	"em" <sam-> PRP @<ADVL
 "<os>"
 	"o" <art> <-sam> DET M P @>N
-"<lï¿½bios>"
-	"lï¿½bio" <f:485> <anmov> <D:bo> <D:an> <fr:100> N M P @P<
+"<l�bios>"
+	"l�bio" <f:485> <anmov> <D:bo> <D:an> <fr:100> N M P @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minah>"
 	"minah" <f:2> <Rare> <RareBase> <xxx> <fr:6> N F S @P<
 "<vizinha>"
-	"vizinho" <f:1492> <jn> <fr:91> ADJ F S ï¿½NP-CLOSE @N<
+	"vizinho" <f:1492> <jn> <fr:91> ADJ F S �NP-CLOSE @N<
 "<$,>"
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
@@ -446,7 +446,7 @@
 "<foi>"
 	"ser" <sN> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<que>"
-	"que" <clb-fs> KS ï¿½CLB @SUB
+	"que" <clb-fs> KS �CLB @SUB
 "<em>"
 	"em" <f:2978362> <sam-> <fr:100> PRP @ADVL>
 "<este>"
@@ -478,7 +478,7 @@
 "<respeito>"
 	"respeito" <f:14025> <am> <ac> <sem-r> <a+> N M S <+de> <fr:97> @P<
 "<de>"
-	"de" <+tï¿½j> <sam-> PRP ï¿½NP-CLOSE @N<
+	"de" <+t�j> <sam-> PRP �NP-CLOSE @N<
 "<estes>"
 	"este" <dem> <-sam> DET M P @P<
 "<com>"
@@ -488,11 +488,11 @@
 "<pessoa>"
 	"pessoa" <f:11343> <H> <fr:100> N F S @P<
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @SUBJ>
 "<os>"
 	"eles" <f:28283> <fr:1> PERS M 3P ACC @ACC>
 "<inspirou>"
-	"inspirar" <fr:100> <f:411> <vt> <vH> <mv> V PS 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"inspirar" <fr:100> <f:411> <vt> <vH> <mv> V PS 3S IND VFIN �NP-CLOSE @FS-N<
 "<$.>"
 </s>
 </u>
@@ -523,7 +523,7 @@
 "<delgada>"
 	"delgado" <n> <f:66> <*> <jh> <jn> <fr:100> ADJ F S @NPHR
 "<sem>"
-	"sem" <f:99855> <fr:24> PRP ï¿½NP-CLOSE @N<
+	"sem" <f:99855> <fr:24> PRP �NP-CLOSE @N<
 "<ser>"
 	"ser" <f:270850> <vK> <sN> <fr:100> <mv> V INF @ICL-P<
 "<magra>"
@@ -539,8 +539,8 @@
 "<trigueira>"
 	"trigueiro" <f:5> <Rare> <col> <jn> <jh> <fr:100> ADJ F S @<SC
 "<$;>"
-"<afï¿½vel>"
-	"afï¿½vel" <f:65> <h> <jh> <fr:100> ADJ M/F S @PRED>
+"<af�vel>"
+	"af�vel" <f:65> <h> <jh> <fr:100> ADJ M/F S @PRED>
 "<$,>"
 "<sem>"
 	"sem" <f:99855> <fr:24> PRP @ADVL
@@ -554,9 +554,9 @@
 "<olhos>"
 	"olho" <f:6561> <anmov> <D:ar> <fr:100> N M P @NPHR
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @SUBJ>
 "<falavam>"
-	"falar" <fr:100> <f:450> <vH> <vt> <v-cog> <mv> V IMPF 3P IND VFIN ï¿½NP-CLOSE @FS-N< %DIZER
+	"falar" <fr:100> <f:450> <vH> <vt> <v-cog> <mv> V IMPF 3P IND VFIN �NP-CLOSE @FS-N< %DIZER
 "<todos=os>"
 	"todo=o" <enum> <quant2> DET M P @>N
 "<caprichosos>"
@@ -564,7 +564,7 @@
 "<dialetos>"
 	"dialeto" <f:87> <ling> <fr:100> N M P @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<ternura>"
@@ -583,32 +583,32 @@
 "<beijo>"
 	"beijo" <f:370> <act> <fr:97> N M S @NPHR
 "<feito>"
-	"fazer" <f:16403> <vt> <D:tea> <ADJ> <jh> <jn> <fr:95> V PCP M S ï¿½NP-CLOSE @N<
+	"fazer" <f:16403> <vt> <D:tea> <ADJ> <jh> <jn> <fr:95> V PCP M S �NP-CLOSE @N<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<duas>"
 	"dois" <f:67590> <card> <fr:100> NUM F P @>N
-"<pï¿½talas>"
-	"pï¿½tala" <f:108> <anbo> <D:bo> <fr:100> N F P @P<
+"<p�talas>"
+	"p�tala" <f:108> <anbo> <D:bo> <fr:100> N F P @P<
 "<$;>"
 "<uns>"
 	"um" <f:12944> <quant2> <+num> <fr:100> DET M P @>N
 "<dentes>"
 	"dente" <f:946> <anmov> <D:tk> <fr:100> N M P @NPHR
 "<melhores>"
-	"bom" <f:414> <KOMP> <SUP> <corr> <jn> <fr:82> ADJ M P ï¿½NP-CLOSE @N<
+	"bom" <f:414> <KOMP> <SUP> <corr> <jn> <fr:82> ADJ M P �NP-CLOSE @N<
 "<que>"
 	"que" <com> <f:968748> <corr> <komp> <fr:89> KS @AS-KOMP<
 "<as>"
 	"o" <f:1296756> <art> <fr:99> DET F P @>N
-"<jï¿½ias>"
-	"jï¿½ia" <f:679> <cc-stone> <cloH-beauty> <fr:100> N F P @AS<
+"<j�ias>"
+	"j�ia" <f:679> <cc-stone> <cloH-beauty> <fr:100> N F P @AS<
 "<mais>"
 	"muito" <f:326243> <quant> <D:ma> <KOMP> <corr> <fr:24> ADV @>A
 "<valiosas>"
-	"valioso" <f:169> <jn> <fr:100> ADJ F P ï¿½NP-CLOSE @N<
+	"valioso" <f:169> <jn> <fr:100> ADJ F P �NP-CLOSE @N<
 "<de>"
-	"de" <f:8537237> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<Golconda>"
 	"Golconda" <RareBase> <*> <heur> <f:0> PROP M/F S @P< %hum
 "<$;>"
@@ -617,19 +617,19 @@
 "<mais>"
 	"muito" <f:326243> <quant> <D:ma> <KOMP> <corr> <fr:24> ADV @>A
 "<lindos>"
-	"lindo" <f:65> <ante-attr> <jn> <fr:100> ADJ M P ï¿½NP-CLOSE @N<
+	"lindo" <f:65> <ante-attr> <jn> <fr:100> ADJ M P �NP-CLOSE @N<
 "<do=que>"
 	"do=que" <com> <corr> <komp> KS @AS-KOMP<
 "<aqueles>"
 	"aquele" <f:15660> <dem> <fr:100> DET M P @AS<
 "<com>"
-	"com" <f:824934> <U:G> <fr:100> PRP ï¿½CLB @ADVL @ADVL>
+	"com" <f:824934> <U:G> <fr:100> PRP �CLB @ADVL @ADVL>
 "<que>"
 	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S @P<
 "<Eva>"
 	"Eva" <f:850> <*> <hum> <fr:100> PROP F S @SUBJ> %hum
 "<escondeu>"
-	"esconder" <fr:100> <f:597> <vt> <vH> <mv> V PS 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"esconder" <fr:100> <f:597> <vt> <vH> <mv> V PS 3S IND VFIN �NP-CLOSE @FS-N<
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<seu>"
@@ -639,11 +639,11 @@
 "<pudor>"
 	"pudor" <f:497> <am> <percep-f> <fr:100> N M S @<ACC %EMO:VERGONHA
 "<em>"
-	"em" <f:2978362> <sam-> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"em" <f:2978362> <sam-> <+top> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<paraï¿½so>"
-	"paraï¿½so" <f:966> <Ltop> <Lmyth> <D:F> <D:rl> <fr:100> N M S @P<
+"<para�so>"
+	"para�so" <f:966> <Ltop> <Lmyth> <D:F> <D:rl> <fr:100> N M S @P<
 "<$.>"
 </s>
 </u>
@@ -677,7 +677,7 @@
 "<teias>"
 	"teia" <f:149> <Labs> <mat-cloth> <act-s> <cc-light> <fr:100> N F P @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<sua>"
@@ -686,15 +686,15 @@
 	"formosura" <f:19> <f> <fr:100> N F S @P<
 "<$,>"
 "<penetrando->"
-	"penetrar" <Rare> <hyfen> <de^vrp> <sH> <f:0> <mv> V GER ï¿½CLB @ICL-<ADVL
+	"penetrar" <Rare> <hyfen> <de^vrp> <sH> <f:0> <mv> V GER �CLB @ICL-<ADVL
 "<me>"
 	"eu" <f:66998> <fr:100> PERS M/F 1S ACC @<ACC
-"<atï¿½>"
-	"atï¿½" <f:55808> <setop> <fr:47> ADV @>A
+"<at�>"
+	"at�" <f:55808> <setop> <fr:47> ADV @>A
 "<ao=fundo>"
 	"ao=fundo" ADV @<ADVL
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <+hum> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <+hum> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<alma>"
@@ -703,12 +703,12 @@
 	"com" <f:824934> <U:G> <fr:100> PRP @<ADVL
 "<os>"
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
-"<irresistï¿½veis>"
-	"irresistï¿½vel" <f:28> <fr:100> ADJ M P @>N
-"<tentï¿½culos>"
-	"tentï¿½culo" <f:106> <anmov> <anzo> <anent> <fr:100> N M P @P<
+"<irresist�veis>"
+	"irresist�vel" <f:28> <fr:100> ADJ M P @>N
+"<tent�culos>"
+	"tent�culo" <f:106> <anmov> <anzo> <anent> <fr:100> N M P @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
 "<seus>"
@@ -723,8 +723,8 @@
 <u>
 <s>
 
-"<desde=entï¿½o>"
-	"desde=entï¿½o" <atemp> <*> ADV @ADVL>
+"<desde=ent�o>"
+	"desde=ent�o" <atemp> <*> ADV @ADVL>
 "<conversamos>"
 	"conversar" <f:0> <vi> <vH> <ink> <fmc> <mv> V PR 1P IND VFIN @FMV %DIZER
 "<todos=os=dias>"
@@ -749,7 +749,7 @@
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S ACC @<ACC
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<era>"
 	"ser" <fr:96> <f:80296> <vK> <ink> <sH> <mv> V-REGIDO IMPF 3S IND VFIN @FS-<SUBJ
 "<solteira>"
@@ -760,15 +760,15 @@
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<jureu>"
-	"jura" <Rare> <RareBase> <DERS -eu [ATTR/PATR]> <jh> <f:0> ADJ M S ï¿½NP-CLOSE @N<
+	"jura" <Rare> <RareBase> <DERS -eu [ATTR/PATR]> <jh> <f:0> ADJ M S �NP-CLOSE @N<
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @SC>
-"<serï¿½amos>"
-	"ser" <fr:100> <f:129> <sH> <mv> V COND 1P IND VFIN ï¿½NP-CLOSE @FS-N<
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @SC>
+"<ser�amos>"
+	"ser" <fr:100> <f:129> <sH> <mv> V COND 1P IND VFIN �NP-CLOSE @FS-N<
 "<um>"
 	"um" <f:899603> <quant2> <fr:87> DET M S @<SUBJ
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<outro>"
@@ -813,7 +813,7 @@
 "<bogari>"
 	"bogari" <Rare> <RareBase> <Bbush> <U:B> <U:SANS> <D:bo> <f:0> N M S @P<
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @SUBJ>
 "<em>"
 	"em" <f:2978362> <sam-> <fr:100> PRP @ADVL>
 "<esse>"
@@ -821,15 +821,15 @@
 "<momento>"
 	"momento" <f:34523> <D:fy> <dur> <f-q> <fr:100> N M S @P<
 "<trazia>"
-	"trazer" <fr:100> <f:770> <sN> <mv> V IMPF 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"trazer" <fr:100> <f:770> <sN> <mv> V IMPF 3S IND VFIN �NP-CLOSE @FS-N<
 "<pendente>"
 	"pendente" <f:79> <nh> <jn> <+de> <fr:59> ADJ M/F S @<PRED
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @A<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @A<
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
-"<lï¿½bios>"
-	"lï¿½bio" <f:485> <anmov> <D:bo> <D:an> <fr:100> N M P @P<
+"<l�bios>"
+	"l�bio" <f:485> <anmov> <D:bo> <D:an> <fr:100> N M P @P<
 "<$.>"
 </s>
 </u>
@@ -838,8 +838,8 @@
 <u>
 <s>
 
-"<aï¿½>"
-	"aï¿½" <f:1> <Rare> <*> <fr:0> IN @ADVL
+"<a�>"
+	"a�" <f:1> <Rare> <*> <fr:0> IN @ADVL
 "<$!>"
 </s>
 </u>
@@ -858,20 +858,20 @@
 	"Ester" <f:230> <*> <hum> <fr:100> PROP F S @P< %hum
 "<$,>"
 "<bonita>"
-	"bonito" <f:1109> <jh> <fr:100> ADJ F S ï¿½NP-CLOSE @N<PRED
+	"bonito" <f:1109> <jh> <fr:100> ADJ F S �NP-CLOSE @N<PRED
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<pura>"
-	"puro" <f:3064> <jh> <fr:100> ADJ F S ï¿½NP-CLOSE @N<PRED
+	"puro" <f:3064> <jh> <fr:100> ADJ F S �NP-CLOSE @N<PRED
 "<$,>"
 "<noites>"
-	"noite" <f:2739> <per> <temp> <fr:100> N F P ï¿½NP-CLOSE @N<PRED
+	"noite" <f:2739> <per> <temp> <fr:100> N F P �NP-CLOSE @N<PRED
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<noites>"
-	"noite" <f:2739> <per> <temp> <fr:100> N F P ï¿½NP-CLOSE @N<PRED
+	"noite" <f:2739> <per> <temp> <fr:100> N F P �NP-CLOSE @N<PRED
 "<seguidas>"
-	"seguido" <f:147> <nh> <jn> <fr:20> ADJ F P ï¿½NP-CLOSE @N<
+	"seguido" <f:147> <nh> <jn> <fr:20> ADJ F P �NP-CLOSE @N<
 "<$.>"
 </s>
 </u>
@@ -884,10 +884,10 @@
 	"todo" <f:4264> <quant1> <integr> <fr:44> DET F S @>N
 "<uma>"
 	"um" <f:845836> <arti> <fr:91> DET F S @>N
-"<existï¿½ncia>"
-	"existï¿½ncia" <f:13035> <f> <D:hdl> <fr:100> N F S @<ACC
+"<exist�ncia>"
+	"exist�ncia" <f:13035> <f> <D:hdl> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<felicidade>"
 	"felicidade" <f:1293> <am> <fr:100> N F S @P< %EMO:FELIZ
 "<ao=lado=de>"
@@ -898,11 +898,11 @@
 	"meigo" <f:30> <h> <jh> <fr:100> ADJ F S @>N
 "<criatura>"
 	"criatura" <f:314> <Azo> <H> <fr:100> N F S @P<
-"<adorï¿½vel>"
-	"adorï¿½vel" <f:5> <jh> <jn> <fr:100> ADJ F S ï¿½NP-CLOSE @N< %EMO:AMOR
+"<ador�vel>"
+	"ador�vel" <f:5> <jh> <jn> <fr:100> ADJ F S �NP-CLOSE @N< %EMO:AMOR
 "<$;>"
-"<atï¿½>"
-	"atï¿½" <f:61688> <+que> <fr:53> PRP @ADVL>
+"<at�>"
+	"at�" <f:61688> <+que> <fr:53> PRP @ADVL>
 "<que>"
 	"que" <clb-fs> <f:968748> <fr:89> KS @SUB
 "<um>"
@@ -910,10 +910,10 @@
 "<dia>"
 	"dia" <f:88124> <temp> <dur> <per> <unit> <num+> <fr:100> N M S @ADVL>
 "<$,>"
-"<jï¿½=nï¿½o>"
-	"jï¿½=nï¿½o" <atemp> <setop> ADV @ADVL>
+"<j�=n�o>"
+	"j�=n�o" <atemp> <setop> ADV @ADVL>
 "<podendo>"
-	"poder" <f:3320> <vi> <sN> <fr:100> <mv> V GER ï¿½CLB @ICL-ADVL>
+	"poder" <f:3320> <vi> <sN> <fr:100> <mv> V GER �CLB @ICL-ADVL>
 "<resistit>"
 	"resistit" <f:31> <RareBase> <xxx> <fr:94> N M S @<SUBJ
 "<a>"
@@ -923,7 +923,7 @@
 "<desejo>"
 	"desejo" <f:5976> <sem-c> <am> <percep-f> <+de+INF> <fr:83> N M S @P< %EMO:DESEJO %EMO:ESPERANCA
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<ver->"
 	"ver" <f:1971> <hyfen> <vt> <vH> <v-cog> <fr:100> <mv> V INF @ICL-P<
 "<la>"
@@ -947,13 +947,13 @@
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<sua>"
 	"seu" <fr:100> <f:230315> <poss 3S> DET F S @>N
-"<contï¿½gua>"
-	"contï¿½guo" <n> <f:183> <nh> <jn> <fr:100> ADJ F S @P<
+"<cont�gua>"
+	"cont�guo" <n> <f:183> <nh> <jn> <fr:100> ADJ F S @P<
 "<$,>"
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S �CLB @ACC>
 "<estava>"
-	"estar" <fr:100> <f:37186> <para^xp> <em^xp> <ink> <aux> V IMPF 1/3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"estar" <fr:100> <f:37186> <para^xp> <em^xp> <ink> <aux> V IMPF 1/3S IND VFIN �NP-CLOSE @FS-N<
 "<para>"
 	"para" <f:965269> <+top> <fr:100> PRP @PRT-AUX<
 "<alugar>"
@@ -962,20 +962,20 @@
 "<e>"
 	"e" <fr:100> <f:2349620> <clb> KC @CO
 "<consegui>"
-	"conseguir" <fr:100> <f:858> <vt> <ink> <vH> <fmc> <mv> V PS 1S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"conseguir" <fr:100> <f:858> <vt> <ink> <vH> <fmc> <mv> V PS 1S IND VFIN �NP-CLOSE @FS-N<
 "<$,>"
 "<galgando>"
-	"galgar" <f:16> <vt> <vH> <fr:100> <mv> V GER ï¿½CLB @ICL-<ADVL
+	"galgar" <f:16> <vt> <vH> <fr:100> <mv> V GER �CLB @ICL-<ADVL
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<muro>"
 	"muro" <f:1672> <part-build> <bar> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<terraï¿½o>"
-	"terraï¿½o" <f:295> <Lh> <fr:100> N M S @P<
+"<terra�o>"
+	"terra�o" <f:295> <Lh> <fr:100> N M S @P<
 "<$,>"
 "<cair->"
 	"cair" <f:33> <hyfen> <a^vp> <fr:100> <mv> V INF @IMV
@@ -985,12 +985,12 @@
 	"a" <f:2126552> <sam-> <+top> <fr:100> PRP @<PIV
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
-"<pï¿½s>"
-	"pï¿½" <f:3096> <anmov> <unit> <amount> <anbo> <Labs> <ac-cat> <fr:100> N M P @P<
+"<p�s>"
+	"p�" <f:3096> <anmov> <unit> <amount> <anbo> <Labs> <ac-cat> <fr:100> N M P @P<
 "<$,>"
 	"$," <co-prparg> PU @CO
 "<humilde>"
-	"humilde" <f:112> <jn> <fr:100> ADJ M/F S ï¿½NP-CLOSE @P< @N<PRED %EMO:HUMILDADE
+	"humilde" <f:112> <jn> <fr:100> ADJ M/F S �NP-CLOSE @P< @N<PRED %EMO:HUMILDADE
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<apaixonado>"
@@ -1013,9 +1013,9 @@
 <s>
 
 "<que>"
-	"que" <f:0> <Rare> <*> <interr> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <f:0> <Rare> <*> <interr> <fr:0> SPEC M S �CLB @SUBJ>
 "<veio>"
-	"vir" <fr:100> <f:10224> <fmc> <aux> V PS 3S IND VFIN ï¿½QUE @FAUX
+	"vir" <fr:100> <f:10224> <fmc> <aux> V PS 3S IND VFIN �QUE @FAUX
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<senhor>"
@@ -1034,8 +1034,8 @@
 	"perguntar" <fr:100> <f:273> <hyfen> <vt> <ink> <vH> <fmc> <mv> V PS 3S IND VFIN @FMV %DIZER
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S DAT @<DAT
-"<trï¿½mula>"
-	"trï¿½mulo" <f:7> <Rare> <jh> <jn> <fr:100> ADJ F S @<PRED
+"<tr�mula>"
+	"tr�mulo" <f:7> <Rare> <jh> <jn> <fr:100> ADJ F S @<PRED
 "<$,>"
 "<empalidecendo>"
 	"empalidecer" <f:3> <Rare> <vi> <fr:100> <mv> V GER @ICL-<ADVL
@@ -1051,7 +1051,7 @@
 "<te>"
 	"tu" <f:4385> <refl> <fr:100> PERS M/F 2S ACC @<ACC
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<te>"
 	"tu" <f:4385> <fr:100> PERS M/F 2S ACC @ACC>
 "<amo>"
@@ -1061,9 +1061,9 @@
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<que>"
-	"que" <f:38443> <quant> <interr> <fr:4> ADV ï¿½CLB @>A
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+	"que" <f:38443> <quant> <interr> <fr:4> ADV �CLB @>A
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<sei>"
 	"saber" <fr:100> <f:7816> <a+INF> <x> <ink> <v-cog> <IA> <fmc> <mv> V-REGIDO PR 1S IND VFIN @FMV
 "<continuar>"
@@ -1087,7 +1087,7 @@
 "<te>"
 	"tu" <f:4385> <refl> <fr:100> PERS M/F 2S DAT @<DAT
 "<que>"
-	"que" <fr:89> <f:968748> <el-verb> KS ï¿½CLB @SUB
+	"que" <fr:89> <f:968748> <el-verb> KS �CLB @SUB
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S DAT @DAT>
 "<apresente>"
@@ -1095,22 +1095,22 @@
 "<a>"
 	"o" <f:5331776> <dem> <fr:71> DET F S @<ACC
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @SUBJ>
 "<devo>"
-	"dever" <fr:100> <f:1990> <x> <aux> V-REGIDO PR 1S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"dever" <fr:100> <f:1990> <x> <aux> V-REGIDO PR 1S IND VFIN �NP-CLOSE @FS-N<
 "<pedir>"
 	"pedir" <f:8208> <vt> <D:rl> <vH> <vq+SUBJ> <fr:99> <mv> V INF @ICL-AUX< %EMO:HUMILDADE
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<tua>"
 	"teu" <fr:100> <f:673> <poss 2S> DET F S @>N
-"<mï¿½o>"
-	"mï¿½o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<ACC
+"<m�o>"
+	"m�o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<ACC
 "<$,>"
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<marques>"
 	"marcar" <fr:100> <f:4> <Rare> <vt> <D:tel> <vH> <B-Rare> <ink> <mv> V PR 2S SUBJ VFIN @FS-ACC>
 "<um>"
@@ -1126,18 +1126,18 @@
 "<$,>"
 "<ou>"
 	"ou" <fr:100> <f:215297> KC @CO
-"<entï¿½o>"
-	"entï¿½o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
+"<ent�o>"
+	"ent�o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S DAT @DAT>
 "<emprestes>"
 	"emprestar" <f:0> <Rare> <ink> <vdt> <vH> <B-Rare> <mv> V PR 2S SUBJ VFIN @FS-<ACC
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
-"<revï¿½lver>"
-	"revï¿½lver" <f:379> <tool-gun> <fr:100> N M S @<ACC
+"<rev�lver>"
+	"rev�lver" <f:379> <tool-gun> <fr:100> N M S @<ACC
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<me>"
@@ -1167,7 +1167,7 @@
 <s>
 
 "<ela>"
-	"ela" <f:5676> <*> <fr:100> PERS F 3S NOM ï¿½CLB @SUBJ>
+	"ela" <f:5676> <*> <fr:100> PERS F 3S NOM �CLB @SUBJ>
 "<$,>"
 "<em=vez=de>"
 	"em=vez=de" <c> PRP @ADVL>
@@ -1183,7 +1183,7 @@
 "<se>"
 	"se" <f:667285> <fr:86> PERS F 3S ACC @<ACC-PASS
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<PIV
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<meu>"
@@ -1201,11 +1201,11 @@
 "<porta>"
 	"porta" <f:8155> <part-build> <Lopening> <fr:99> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<terraï¿½o>"
-	"terraï¿½o" <f:295> <Lh> <fr:100> N M S @P<
+"<terra�o>"
+	"terra�o" <f:295> <Lh> <fr:100> N M S @P<
 "<$.>"
 </s>
 </u>
@@ -1215,25 +1215,25 @@
 <s>
 
 "<$-->"
-"<entï¿½o>"
-	"entï¿½o" <f:3615> <*> <dei> <atemp> <kc> <fr:100> ADV @ADVL
+"<ent�o>"
+	"ent�o" <f:3615> <*> <dei> <atemp> <kc> <fr:100> ADV @ADVL
 "<$?>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<nada>"
 	"nada" <f:3005> <*> <quant0> <fr:87> SPEC M S @ACC>
 "<respondes>"
-	"responder" <fr:100> <f:2> <Rare> <vt> <B-Rare> <ink> <v-cog> <fmc> <mv> V PR 2S IND VFIN ï¿½QUE @FMV %DIZER
+	"responder" <fr:100> <f:2> <Rare> <vt> <B-Rare> <ink> <v-cog> <fmc> <mv> V PR 2S IND VFIN �QUE @FMV %DIZER
 "<$?>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<inquiri>"
 	"inquirir" <fr:100> <f:3> <Rare> <vt> <vH> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
@@ -1244,7 +1244,7 @@
 "<fim>"
 	"fim" <f:34801> <temp> <event> <sem-c> <fr:100> N M S @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<alguns>"
 	"algum" <f:61276> <quant2> <fr:100> DET M P @>N
 "<instantes>"
@@ -1256,7 +1256,7 @@
 <s>
 
 "<$-->"
-"<vï¿½->"
+"<v�->"
 	"ir" <fr:0> <f:23> <*> <hyfen> <vr> <ink> <de^vpK> <fmc> <mv> <v-pron> V PR 1/3S SUBJ VFIN @FMV
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3S ACC @<ACC
@@ -1264,36 +1264,36 @@
 	"embora" <f:2074> <adir> <fr:7> ADV @<ADVL
 "<$,>"
 "<criatura>"
-	"criatura" <f:314> <Azo> <H> <fr:100> N F S ï¿½NP-CLOSE @N<PRED
+	"criatura" <f:314> <Azo> <H> <fr:100> N F S �NP-CLOSE @N<PRED
 "<$!>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<me>"
 	"eu" <f:66998> <fr:100> PERS M/F 1S ACC @ACC>
 "<amas>"
-	"amar" <fr:67> <f:31> <vt> <vH> <B-Rare> <ink> <fmc> <mv> V PR 2S IND VFIN ï¿½QUE @FMV %EMO:AMOR
+	"amar" <fr:67> <f:31> <vt> <vH> <B-Rare> <ink> <fmc> <mv> V PR 2S IND VFIN �QUE @FMV %EMO:AMOR
 "<$?>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<digo>"
 	"dizer" <fr:100> <f:1716> <ink> <vq> <v-cog> <vH> <fmc> <mv> V-REGENTE-NEG PR 1S IND VFIN @FMV %DIZER %RELATOINDIRETO
 "<que>"
 	"que" <clb-fs> <f:968748> <fr:89> KS @SUB
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @<ADVL
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @<ADVL
 "<$;>"
-"<ao=contrï¿½rio>"
-	"ao=contrï¿½rio" ADV @ADVL>
+"<ao=contr�rio>"
+	"ao=contr�rio" ADV @ADVL>
 "<$,>"
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<senhor>"
 	"senhor" <f:25170> <Htit> <+de> <fr:100> N M S @SUBJ>
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sH> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
@@ -1302,7 +1302,7 @@
 "<rapaz>"
 	"rapaz" <f:2278> <Hbio> <U:L> <fr:100> N M S @<SC
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<quem>"
 	"quem" <rel> <hum> <f:0> SPEC M/F S/P @P<
 "<eu>"
@@ -1312,7 +1312,7 @@
 "<$,>"
 "<mas>"
 	"mas" <fr:100> <f:225293> <clb> KC @CO
-"<vï¿½->"
+"<v�->"
 	"ir" <fr:1> <f:48> <hyfen> <de^vpK> <sA> <sH> <vda> <fmc> <mv> V PR 1/3S SUBJ VFIN @FMV
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3S/P DAT @<DAT
@@ -1333,38 +1333,38 @@
 
 "<$-->"
 "<quem>"
-	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S ï¿½CLB @SUBJ>
-"<dispï¿½e>"
-	"dispor" <fr:100> <f:3736> <vH> <de^vp> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S �CLB @SUBJ>
+"<disp�e>"
+	"dispor" <fr:100> <f:3736> <vH> <de^vp> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @<PIV
 "<tua>"
 	"teu" <fr:100> <f:673> <poss 2S> DET F S @>N
-"<mï¿½o>"
-	"mï¿½o" <f:10524> <anmov> <D:lud> <fr:100> N F S @P<
+"<m�o>"
+	"m�o" <f:10524> <anmov> <D:lud> <fr:100> N F S @P<
 "<$?>"
 
 "<$-->"
 "<quem>"
-	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M S ï¿½CLB @SUBJ>
-"<dispï¿½e>"
-	"dispor" <fr:100> <f:3736> <vH> <de^vp> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M S �CLB @SUBJ>
+"<disp�e>"
+	"dispor" <fr:100> <f:3736> <vH> <de^vp> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @<PIV
 "<mim>"
 	"eu" <f:11683> <fr:100> PERS M/F 1S PIV @P<
-"<ï¿½>"
-	"ser" <fr:100> <f:638053> <vK> <sH> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+"<�>"
+	"ser" <fr:100> <f:638053> <vK> <sH> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<meu>"
 	"meu" <fr:100> <f:23561> <poss 1S> DET M S @>N
 "<tutor>"
 	"tutor" <f:78> <Hprof> <fr:100> N M S @<SC
-"<$ï¿½>"
+"<$�>"
 "<$-->"
 "<onde>"
-	"onde" <f:2803> <*> <interr> <aloc> <fr:50> ADV ï¿½CLB @SA>
-"<estï¿½>"
-	"estar" <fr:100> <f:152924> <vK> <va+LOC> <va+QUAL> <sH> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"onde" <f:2803> <*> <interr> <aloc> <fr:50> ADV �CLB @SA>
+"<est�>"
+	"estar" <fr:100> <f:152924> <vK> <va+LOC> <va+QUAL> <sH> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<ele>"
 	"ele" <f:76377> <fr:100> PERS M 3S NOM @<SC
 "<$?>"
@@ -1374,9 +1374,9 @@
 <s>
 
 "<quem>"
-	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S/P ï¿½CLB @SC>
-"<ï¿½>"
-	"ser" <fr:100> <f:638053> <ink> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S/P �CLB @SC>
+"<�>"
+	"ser" <fr:100> <f:638053> <ink> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<$?>"
 </s>
 </u>
@@ -1384,11 +1384,11 @@
 <s>
 
 "<como>"
-	"como" <f:16976> <*> <interr> <fr:29> ADV ï¿½CLB @ADVL>
+	"como" <f:16976> <*> <interr> <fr:29> ADV �CLB @ADVL>
 "<se>"
 	"se" <fr:86> <f:667285> <obj> PERS M/F 3S ACC @ACC>
 "<chama>"
-	"chamar" <fr:83> <f:3445> <vt> <D:lit> <ink> <vH> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV %DIZER
+	"chamar" <fr:83> <f:3445> <vt> <D:lit> <ink> <vH> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV %DIZER
 "<$?>"
 
 "<$-->"
@@ -1396,21 +1396,21 @@
 	"chamar" <fr:100> <f:810> <*> <hyfen> <vtK> <D:lit> <vH> <fmc> <mv> V PR 3S IND VFIN @FMV %DIZER
 "<se>"
 	"se" <f:667285> <fr:86> PERS M/F 3S/P ACC @<SUBJ
-"<Josï¿½=Bento=Furtado>"
-	"Josï¿½=Bento=Furtado" <*> <hum> <_c> PROP M S @<OC %hum
+"<Jos�=Bento=Furtado>"
+	"Jos�=Bento=Furtado" <*> <hum> <_c> PROP M S @<OC %hum
 "<$.>"
 </s>
 </u>
 <u>
 <s>
 
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:83262> <*> <vK> <sH> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<capitalista>"
 	"capitalista" <f:104> <Hideo> <fr:100> N M S @<SC
 "<$,>"
 "<comendador>"
-	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S ï¿½NP-CLOSE @N<PRED @SC>
+	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S �NP-CLOSE @N<PRED @SC>
 "<$,>"
 "<e>"
 	"e" <fr:100> <f:2349620> <clb> KC @CO
@@ -1424,14 +1424,14 @@
 	"em" <f:2978362> <sam-> <+top> <+vej> <fr:100> PRP @<SA
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
-"<praï¿½a>"
-	"praï¿½a" <f:4465> <Lh> <D:sï¿½> <Lpath> <build> <part-build> <Hprof> <fr:99> N F S @P<
+"<pra�a>"
+	"pra�a" <f:4465> <Lh> <D:s�> <Lpath> <build> <part-build> <Hprof> <fr:99> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<comï¿½rcio>"
-	"comï¿½rcio" <f:10063> <activity> <fr:100> N M S @P<
+"<com�rcio>"
+	"com�rcio" <f:10063> <activity> <fr:100> N M S @P<
 "<$.>"
 </s>
 </u>
@@ -1453,8 +1453,8 @@
 
 "<$-->"
 "<se>"
-	"se" <clb-fs> <f:41231> <*> <fr:94> KS ï¿½CLB @SUB
-"<ï¿½>"
+	"se" <clb-fs> <f:41231> <*> <fr:94> KS �CLB @SUB
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sN> <ink> <mv> V PR 3S IND VFIN @FS-ADVL>
 "<para>"
 	"para" <f:965269> <+INF> <fr:100> PRP @<SC
@@ -1472,7 +1472,7 @@
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @<DAT
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<perde>"
 	"perder" <fr:100> <f:2898> <vt> <ink> <mv> V-REGIDO PR 3S IND VFIN @FS-<ACC
 "<o>"
@@ -1488,8 +1488,8 @@
 <s>
 
 "<$-->"
-"<por=quï¿½>"
-	"por=quï¿½" <interr> <*> ADV @ADVL>
+"<por=qu�>"
+	"por=qu�" <interr> <*> ADV @ADVL>
 "<$?>"
 
 "<$-->"
@@ -1497,12 +1497,12 @@
 	"meu" <fr:100> <f:742> <*> <poss 1S> DET M S @>N
 "<tutor>"
 	"tutor" <f:78> <Hprof> <fr:100> N M S @SUBJ>
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<quer>"
 	"querer" <fr:60> <f:21794> <vt> <vH> <vq+SUBJ> <fmc> <mv> V-REGENTE-NEG PR 3S IND VFIN @FMV %EMO:DESEJO
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<case>"
@@ -1510,7 +1510,7 @@
 "<antes>"
 	"antes" <f:50835> <atemp> <+de> <fr:98> ADV @<ADVL
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @A<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @A<
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
 "<vinte>"
@@ -1519,15 +1519,15 @@
 	"ano" <f:174225> <dur> <temp> <per> <smP> <num+> <unit> <fr:100> N M P @P<
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<jï¿½>"
-	"jï¿½" <f:167681> <setop> <atemp> <fr:100> ADV @ADVL>
+"<j�>"
+	"j�" <f:167681> <setop> <atemp> <fr:100> ADV @ADVL>
 "<decidiu>"
 	"decidir" <fr:100> <f:11717> <vt> <ink> <vH> <v-cog> <+interr> <fmc> <mv> V PS 3S IND VFIN @FMV %DIZER
 "<com>"
 	"com" <f:824934> <U:G> <fr:100> PRP @<ADVL
 "<quem>"
 	"quem" <clb-fs> <interr> <hum> <f:0> SPEC M/F S/P @P<
-"<hï¿½>"
+"<h�>"
 	"haver" <fr:62> <f:80812> <ink> <vUK> <de^xp> <aux> V PR 3S IND VFIN @FS-<ACC
 "<de>"
 	"de" <f:8537237> <+cloH> <+il> <+hum> <+mat> <+top> <+per> <+feat> <fr:100> PRP @PRT-AUX<
@@ -1540,8 +1540,8 @@
 <s>
 
 "<$-->"
-"<jï¿½>"
-	"jï¿½" <f:17268> <*> <setop> <atemp> <fr:100> ADV @ADVL
+"<j�>"
+	"j�" <f:17268> <*> <setop> <atemp> <fr:100> ADV @ADVL
 "<$?>"
 
 "<$!>"
@@ -1551,11 +1551,11 @@
 <s>
 
 "<com>"
-	"com" <f:39538> <*> <U:G> <fr:100> PRP ï¿½CLB @ADVL>
+	"com" <f:39538> <*> <U:G> <fr:100> PRP �CLB @ADVL>
 "<quem>"
 	"quem" <interr> <hum> <f:0> SPEC M/F S/P @P<
-"<ï¿½>"
-	"ser" <fr:100> <f:638053> <ink> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+"<�>"
+	"ser" <fr:100> <f:638053> <ink> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<$?>"
 
 "<$-->"
@@ -1564,7 +1564,7 @@
 "<ele>"
 	"ele" <f:76377> <fr:100> PERS M 3S NOM/PIV @P<
 "<mesmo>"
-	"mesmo" <f:47636> <ident> <post-det> <fr:34> DET M S ï¿½NP-CLOSE @N<
+	"mesmo" <f:47636> <ident> <post-det> <fr:34> DET M S �NP-CLOSE @N<
 "<$.>"
 </s>
 </u>
@@ -1594,11 +1594,11 @@
 "<e>"
 	"e" <fr:100> <f:106999> <*> KC @CO
 "<que>"
-	"que" <f:0> <interr> <fr:0> DET F S ï¿½CLB @>N
+	"que" <f:0> <interr> <fr:0> DET F S �CLB @>N
 "<idade>"
 	"idade" <f:9650> <f-q> <per> <fr:100> N F S @SUBJ>
 "<tem>"
-	"ter" <fr:100> <f:159233> <vt> <sN> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"ter" <fr:100> <f:159233> <vt> <sN> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<seu>"
 	"seu" <fr:100> <f:198611> <si> <poss 3S> DET M S @>N
 "<tutor>"
@@ -1606,8 +1606,8 @@
 "<$?>"
 
 "<$-->"
-"<cinqï¿½enta>"
-	"cinqï¿½enta" <f:10> <Rare> <*> <card> <fr:100> NUM M P @>N
+"<cinq�enta>"
+	"cinq�enta" <f:10> <Rare> <*> <card> <fr:100> NUM M P @>N
 "<anos>"
 	"ano" <f:174225> <dur> <temp> <per> <smP> <num+> <unit> <fr:100> N M P @ADVL
 "<$.>"
@@ -1632,19 +1632,19 @@
 "<senhora>"
 	"senhora" <f:10822> <Htit> <fr:100> N F S @SUBJ>
 "<consente>"
-	"consentir" <fr:100> <f:144> <vH> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+	"consentir" <fr:100> <f:144> <vH> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<$?>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<que>"
 	"que" <f:0> <*> <interr> <fr:0> DET M S @>N
-"<remï¿½dio>"
-	"remï¿½dio" <f:752> <cm-rem> <ac> <fr:100> N M S @NPHR %SAUDE
+"<rem�dio>"
+	"rem�dio" <f:752> <cm-rem> <ac> <fr:100> N M S @NPHR %SAUDE
 "<$!>"
 </s>
 </u>
@@ -1652,13 +1652,13 @@
 <s>
 
 "<sou>"
-	"ser" <clb-fs> <f:2872> <*> <vK> <sH> <ink> <fr:100> <mv> V PR 1S IND VFIN ï¿½QUOTE @FS-ACC>>
-"<ï¿½rfï¿½>"
-	"ï¿½rfï¿½o" <f:32> <h> <jh> <fr:50> ADJ F S @<SC
-	"ï¿½rfï¿½o" <f:32> <Hfam> <fr:50> N F S @<SC
+	"ser" <clb-fs> <f:2872> <*> <vK> <sH> <ink> <fr:100> <mv> V PR 1S IND VFIN �QUOTE @FS-ACC>>
+"<�rf�>"
+	"�rf�o" <f:32> <h> <jh> <fr:50> ADJ F S @<SC
+	"�rf�o" <f:32> <Hfam> <fr:50> N F S @<SC
 "<$,>"
 "<sabe>"
-	"saber" <fr:100> <f:16502> <IA> <v-cog> <a+INF> <fmc> <mv> V PR 3S IND VFIN ï¿½V-QUOTE ï¿½QUE @FMV
+	"saber" <fr:100> <f:16502> <IA> <v-cog> <a+INF> <fmc> <mv> V PR 3S IND VFIN �V-QUOTE �QUE @FMV
 "<$?>"
 </s>
 </u>
@@ -1671,9 +1671,9 @@
 	"pai" <f:10280> <Hfam> <fr:100> N M S @P<
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<mï¿½e>"
-	"mï¿½e" <f:7711> <Hfam> <fr:98> N F S @P<
-"<$ï¿½>"
+"<m�e>"
+	"m�e" <f:7711> <Hfam> <fr:98> N F S @P<
+"<$�>"
 "<teria>"
 	"ter" <fr:100> <f:549> <*> <ink> <x+PCP> <vUK> <fmc> <aux> V COND 1/3S IND VFIN @FAUX
 "<ficado>"
@@ -1689,9 +1689,9 @@
 "<pequenina>"
 	"pequenino" <f:165> <jh> <jn> <fr:100> ADJ F S @P<
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<fosse>"
 	"ser" <fr:50> <f:17898> <vK> <ink> <sH> <mv> V IMPF 1/3S SUBJ VFIN @FS-<ADVL
 "<aquele>"
@@ -1699,7 +1699,7 @@
 "<santo>"
 	"santo" <f:694> <Hattr> <fr:81> N M S @<SC
 "<homem>"
-	"homem" <f:24382> <Hbio> <fr:100> N M S ï¿½NP-CLOSE @N<
+	"homem" <f:24382> <Hbio> <fr:100> N M S �NP-CLOSE @N<
 "<$.>"
 </s>
 </u>
@@ -1707,8 +1707,8 @@
 <s>
 
 "<$-->"
-"<ï¿½>"
-	"ser" <fr:100> <f:83262> <*> <vK> <sH> <ink> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+"<�>"
+	"ser" <fr:100> <f:83262> <*> <vK> <sH> <ink> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<seu>"
 	"seu" <fr:100> <f:198611> <poss 3S> DET M S @>N
 "<parente>"
@@ -1716,10 +1716,10 @@
 "<$?>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<$,>"
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sH> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<meu>"
 	"meu" <fr:100> <f:23561> <poss 1S> DET M S @>N
@@ -1739,7 +1739,7 @@
 "<senhora>"
 	"senhora" <f:10822> <Htit> <fr:100> N F S @SUBJ>
 "<ama->"
-	"amar" <fr:100> <f:25> <hyfen> <vt> <vH> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV %EMO:AMOR
+	"amar" <fr:100> <f:25> <hyfen> <vt> <vH> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV %EMO:AMOR
 "<o>"
 	"ele" <f:96337> <fr:2> PERS M 3S ACC @<ACC
 "<$?>"
@@ -1747,11 +1747,11 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<como>"
-	"como" <clb-fs> <f:16976> <*> <rel> <ks> <fr:29> ADV ï¿½CLB @ADVL>
+	"como" <clb-fs> <f:16976> <*> <rel> <ks> <fr:29> ADV �CLB @ADVL>
 "<filha>"
 	"filha" <f:4785> <Hfam> <fr:97> N F S @SUBJ>
 "<sou>"
@@ -1772,7 +1772,7 @@
 "<mas>"
 	"mas" <fr:100> <f:116716> <*> KC @CO
 "<esse>"
-	"esse" <f:65474> <dem> <fr:100> DET M S ï¿½CLB @>N
+	"esse" <f:65474> <dem> <fr:100> DET M S �CLB @>N
 "<amor>"
 	"amor" <f:5563> <am> <D:myt> <H> <ac> <fr:100> N M S @SUBJ> %EMO:AMOR
 "<$,>"
@@ -1789,23 +1789,23 @@
 "<noivo>"
 	"noivo" <f:216> <Hfam> <fr:99> N M S @P<
 "<$,>"
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <fmc> <mv> V PR 3S IND VFIN @FMV
-"<pelo=contrï¿½rio>"
-	"pelo=contrï¿½rio" ADV @<ADVL
+"<pelo=contr�rio>"
+	"pelo=contr�rio" ADV @<ADVL
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
-"<sï¿½rio>"
-	"sï¿½rio" <f:2561> <jn> <fr:97> ADJ M S @>N
-"<obstï¿½culo>"
-	"obstï¿½culo" <f:1580> <ac> <fr:100> N M S @<SC
+"<s�rio>"
+	"s�rio" <f:2561> <jn> <fr:97> ADJ M S @>N
+"<obst�culo>"
+	"obst�culo" <f:1580> <ac> <fr:100> N M S @<SC
 "<para>"
-	"para" <f:965269> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"para" <f:965269> <+top> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<casamento>"
 	"casamento" <f:3462> <occ> <fr:100> N M S @P<
-"<$ï¿½>"
+"<$�>"
 "<a>"
 	"o" <f:406580> <*> <art> <fr:88> DET F S @>N
 "<senhora>"
@@ -1818,14 +1818,14 @@
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<sua>"
 	"seu" <fr:100> <f:230315> <si> <poss 3S> DET F S @>N
-"<desgraï¿½a>"
-	"desgraï¿½a" <f:925> <event> <fr:99> N F S @<ACC %EMO:INFELIZ
+"<desgra�a>"
+	"desgra�a" <f:925> <event> <fr:99> N F S @<ACC %EMO:INFELIZ
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<a>"
 	"o" <f:5331776> <dem> <fr:71> DET F S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<pobre>"
@@ -1849,25 +1849,25 @@
 	"outro" <f:49112> <diff> <KOMP> <fr:100> DET M S @>N
 "<amor>"
 	"amor" <f:5563> <am> <D:myt> <H> <ac> <fr:100> N M S @SUBJ> %EMO:AMOR
-"<virï¿½>"
+"<vir�>"
 	"vir" <fr:100> <f:1374> <vi> <sH> <fmc> <mv> V FUT 3S IND VFIN @FMV
 "<depois>"
 	"depois" <f:93150> <atemp> <fr:99> ADV @<ADVL
-"<$ï¿½>"
+"<$�>"
 "<$-->"
 "<duvido>"
 	"duvidar" <fr:100> <f:121> <*> <de^vpq+SUBJ> <vi> <vH> <fmc> <mv> V PR 1S IND VFIN @FMV
 "<$!>"
 
 "<$-->"
-"<virï¿½>"
+"<vir�>"
 	"vir" <fr:100> <f:36> <*> <vi> <ink> <fmc> <mv> V FUT 3S IND VFIN @FMV
-"<ï¿½=forï¿½a=de>"
-	"ï¿½=forï¿½a=de" <c> PRP @<ADVL
-"<dedicaï¿½ï¿½o>"
-	"dedicaï¿½ï¿½o" <f:787> <act> <fr:100> N F S @P< %EMO:AMOR
+"<�=for�a=de>"
+	"�=for�a=de" <c> PRP @<ADVL
+"<dedica��o>"
+	"dedica��o" <f:787> <act> <fr:100> N F S @P< %EMO:AMOR
 "<por=parte=de>"
-	"por=parte=de" <sam-> <c> PRP ï¿½NP-CLOSE @N< @<ADVL
+	"por=parte=de" <sam-> <c> PRP �NP-CLOSE @N< @<ADVL
 "<ele>"
 	"ele" <f:76377> <-sam> <fr:100> PERS M 3S NOM/PIV @P<
 "<e>"
@@ -1893,13 +1893,13 @@
 	"imoral" <f:110> <jn> <fr:100> ADJ M/F S @<PRED
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<ridï¿½culo>"
-	"ridï¿½culo" <f:1137> <jn> <fr:100> ADJ M S @<PRED
+"<rid�culo>"
+	"rid�culo" <f:1137> <jn> <fr:100> ADJ M S @<PRED
 "<$,>"
 "<permita>"
 	"permitir" <fr:100> <f:2879> <vt> <vq+SUBJ> <a^xdp> <vH> <fmc> <mv> V-REGENTE PR 1/3S SUBJ VFIN @FMV
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<lhe&lhes>"
 	"lhe&lhes" <RareBase> <sam-> <f:0> PERS M/F 3S/P DAT @DAT>
 "<o>"
@@ -1909,12 +1909,12 @@
 "<$!>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<estamos>"
 	"estar" <fr:100> <f:14290> <vi> <ink> <fmc> <mv> V PR 1P IND VFIN @FMV
 "<de=acordo>"
-	"de=acordo" <adv> <+com+que> <prï¿½d> PP @<ADVL
+	"de=acordo" <adv> <+com+que> <pr�d> PP @<ADVL
 "<$.>"
 </s>
 </u>
@@ -1925,7 +1925,7 @@
 "<e>"
 	"e" <fr:100> <f:106999> <*> KC @CO
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<me>"
@@ -1943,16 +1943,16 @@
 <s>
 
 "<se>"
-	"se" <clb-fs> <f:41231> <*> <fr:94> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:41231> <*> <fr:94> KS �CLB @SUB
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @DAT>
 "<pedir>"
 	"pedir" <fr:1> <f:120> <vdt> <D:rl> <ink> <vq+SUBJ> <vH> <mv> V-REGENTE FUT 1/3S SUBJ VFIN @FS-ADVL> %EMO:HUMILDADE %DIZER %RELATOINDIRETO
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S ACC @ACC>
-"<dï¿½>"
+"<d�>"
 	"dar" <fr:99> <f:2198> <vr> <ink> <por^vrpK> <mv> <v-pron> V-REGIDO PR 1/3S SUBJ VFIN @FS-<ACC
 "<$,>"
 "<suplicar>"
@@ -1962,48 +1962,48 @@
 	"de=joelhos" <adv> PP @<ADVL
 "<$,>"
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
 "<preciso>"
 	"precisar" <fr:5> <f:1006> <ink> <vi> <mv> V PR 1S IND VFIN @FS-<ACC @FS-<ADVL
 "<for>"
-	"ser" <fr:50> <f:15686> <ink> <fmc> <mv> V FUT 1/3S SUBJ VFIN ï¿½QUE @FMV
+	"ser" <fr:50> <f:15686> <ink> <fmc> <mv> V FUT 1/3S SUBJ VFIN �QUE @FMV
 "<$?>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<pode>"
 	"poder" <fr:50> <f:3923> <*> <ink> <x> <fmc> <aux> V PR 3S IND VFIN @FAUX
 "<ser>"
 	"ser" <f:270850> <vK> <sH> <sA> <fr:100> <mv> V INF @ICL-AUX<
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<homem>"
 	"homem" <f:24382> <Hbio> <fr:100> N M S @SUBJ>
 "<$,>"
 "<bom>"
-	"bom" <f:22320> <jh> <ante-attr> <fr:100> ADJ M S ï¿½NP-CLOSE @N<PRED
+	"bom" <f:22320> <jh> <ante-attr> <fr:100> ADJ M S �NP-CLOSE @N<PRED
 "<$,>"
 "<como>"
-	"como" <clb-fs> <f:161129> <rel> <ks> <fr:33> ADV ï¿½CLB @ADVL>
+	"como" <clb-fs> <f:161129> <rel> <ks> <fr:33> ADV �CLB @ADVL>
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<senhora>"
 	"senhora" <f:10822> <Htit> <fr:100> N F S @SUBJ>
 "<diz>"
-	"dizer" <fr:100> <f:50735> <vH> <vq> <v-cog> <mv> V-REGENTE PR 3S IND VFIN ï¿½NP-CLOSE @FS-N< %DIZER %RELATOINDIRETO
+	"dizer" <fr:100> <f:50735> <vH> <vq> <v-cog> <mv> V-REGENTE PR 3S IND VFIN �NP-CLOSE @FS-N< %DIZER %RELATOINDIRETO
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
-"<ï¿½>"
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sA> <sH> <mv> V-REGIDO PR 3S IND VFIN @FS-<ACC
 "<$,>"
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3S ACC @ACC>
-"<compadeï¿½a>"
+"<compade�a>"
 	"compadecer" <fr:100> <f:3> <Rare> <ink> <vH> <de^vrp> <fmc> <mv> <v-pron> V-REGIDO PR 3S SUBJ VFIN @FS-<ACC %EMO:INFELIZ
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @<PIV
@@ -2014,17 +2014,17 @@
 	"ou" <fr:100> <f:215297> KC @CO
 "<de>"
 	"de" <f:8537237> <+hum> <fr:100> PRP @<ADVL
-"<nï¿½s>"
-	"nï¿½s" <f:25827> <fr:97> PERS M/F 1P NOM/PIV @P<
+"<n�s>"
+	"n�s" <f:25827> <fr:97> PERS M/F 1P NOM/PIV @P<
 "<$,>"
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<$ï¿½>"
+"<$�>"
 "<$-->"
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:83262> <*> <vK> <sN> <fmc> <mv> V-REGIDO PR 3S IND VFIN @FMV
-"<inï¿½til>"
-	"inï¿½til" <f:330> <nh> <jn> <fr:100> ADJ M/F S @<SC
+"<in�til>"
+	"in�til" <f:330> <nh> <jn> <fr:100> ADJ M/F S @<SC
 "<$!>"
 </s>
 </u>
@@ -2033,14 +2033,14 @@
 
 "<ele>"
 	"ele" <f:16584> <*> <fr:100> PERS M 3S NOM @SUBJ>
-"<sï¿½>"
-	"sï¿½" <f:100957> <setop> <fr:100> ADV @ADVL>
+"<s�>"
+	"s�" <f:100957> <setop> <fr:100> ADV @ADVL>
 "<tem>"
 	"ter" <fr:100> <f:159233> <vt> <sH> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<uma>"
 	"um" <f:845836> <arti> <fr:91> DET F S @>N
-"<preocupaï¿½ï¿½o>"
-	"preocupaï¿½ï¿½o" <f:9149> <sem-c> <state-h> <fr:100> N F S @<ACC
+"<preocupa��o>"
+	"preocupa��o" <f:9149> <sem-c> <state-h> <fr:100> N F S @<ACC
 "<em>"
 	"em" <f:2978362> <sam-> <fr:100> PRP @<ADVL
 "<a>"
@@ -2059,8 +2059,8 @@
 "<$-->"
 "<fujamos>"
 	"fugir" <fr:100> <f:1> <Rare> <*> <vi> <D:sp> <vH> <ink> <fmc> <mv> V PR 1P SUBJ VFIN @FMV
-"<entï¿½o>"
-	"entï¿½o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
+"<ent�o>"
+	"ent�o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
 "<$!>"
 
 "<$-->"
@@ -2079,7 +2079,7 @@
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @A<
 "<que>"
-	"que" <f:0> <rel> <que-n> <fr:0> <no-func> SPEC M S ï¿½CLB @NPHR
+	"que" <f:0> <rel> <que-n> <fr:0> <no-func> SPEC M S �CLB @NPHR
 "<com>"
 	"com" <f:824934> <U:G> <fr:100> PRP @ADVL>
 "<isso>"
@@ -2091,7 +2091,7 @@
 "<morte>"
 	"morte" <f:18471> <event> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<meu>"
@@ -2102,7 +2102,7 @@
 
 "<$-->"
 "<devo>"
-	"dever" <fr:100> <f:1176> <*> <ink> <x> <fmc> <aux> V PR 1S IND VFIN ï¿½QUE @FAUX
+	"dever" <fr:100> <f:1176> <*> <ink> <x> <fmc> <aux> V PR 1S IND VFIN �QUE @FAUX
 "<$,>"
 "<em>"
 	"em" <f:2978362> <sam-> <fr:100> PRP @ADVL>
@@ -2115,16 +2115,16 @@
 	"perder" <f:9998> <vt> <fr:98> <mv> V INF @ICL-AUX<
 "<todas=as>"
 	"todo=o" <enum> <quant2> DET F P @>N
-"<esperanï¿½as>"
-	"esperanï¿½a" <f:2612> <am> <percep-w> <fr:100> N F P @<ACC %EMO:ESPERANCA
+"<esperan�as>"
+	"esperan�a" <f:2612> <am> <percep-w> <fr:100> N F P @<ACC %EMO:ESPERANCA
 "<de>"
-	"de" <f:8537237> <+cloH> <+il> <+hum> <+mat> <+top> <+per> <+feat> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<$ï¿½>"
+	"de" <f:8537237> <+cloH> <+il> <+hum> <+mat> <+top> <+per> <+feat> <fr:100> PRP �NP-CLOSE @N<
+"<$�>"
 "<$?>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:3290> <*> <fr:4> IN @ADVL
+"<n�o>"
+	"n�o" <f:3290> <*> <fr:4> IN @ADVL
 "<$!>"
 </s>
 </u>
@@ -2137,8 +2137,8 @@
 	"esperar" <f:8867> <vH> <vi> <fr:99> <mv> V INF @ICL-AUX< %EMO:DESEJO %EMO:ESPERANCA %DIZER
 "<com>"
 	"com" <f:824934> <U:G> <fr:100> PRP @<ADVL
-"<paciï¿½ncia>"
-	"paciï¿½ncia" <f:1659> <am> <D:lud> <game> <fr:100> N F S @P<
+"<paci�ncia>"
+	"paci�ncia" <f:1659> <am> <D:lud> <game> <fr:100> N F S @P<
 "<$.>"
 </s>
 </u>
@@ -2146,13 +2146,13 @@
 <s>
 
 "<pode>"
-	"poder" <fr:50> <f:3923> <*> <ink> <x> <fmc> <aux> V PR 3S IND VFIN ï¿½QUE @FAUX
+	"poder" <fr:50> <f:3923> <*> <ink> <x> <fmc> <aux> V PR 3S IND VFIN �QUE @FAUX
 "<bem>"
 	"bem" <f:53989> <quant> <fr:97> ADV @ADVL>
 "<ser>"
 	"ser" <f:270850> <fr:100> <mv> V INF @ICL-AUX<
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<ele>"
 	"ele" <f:76377> <fr:100> PERS M 3S NOM @SUBJ>
 "<mude>"
@@ -2161,14 +2161,14 @@
 	"ainda" <f:153159> <setop> <atemp> <fr:100> ADV @>P
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @<PIV
-"<idï¿½ia>"
-	"idï¿½ia" <f:2844> <sem-c> <+de+interr> <fr:100> N F S @P<
+"<id�ia>"
+	"id�ia" <f:2844> <sem-c> <+de+interr> <fr:100> N F S @P<
 "<$,>"
 "<ou>"
 	"ou" <fr:100> <f:215297> KC @CO
 "<$,>"
 "<quem>"
-	"quem" <clb-fs> <interr> <hum> <f:0> SPEC M/F S ï¿½CLB @SUBJ>
+	"quem" <clb-fs> <interr> <hum> <f:0> SPEC M/F S �CLB @SUBJ>
 "<sabe>"
 	"saber" <fr:100> <f:16502> <IA> <sN> <a+INF> <v-cog> <mv> V PR 3S IND VFIN @FS-<ACC
 "<$?>"
@@ -2178,11 +2178,11 @@
 <s>
 
 "<pode>"
-	"poder" <clb-fs> <f:3923> <*> <ink> <x> <fr:50> <aux> V PR 3S IND VFIN ï¿½QUOTE @FS-ACC>>
+	"poder" <clb-fs> <f:3923> <*> <ink> <x> <fr:50> <aux> V PR 3S IND VFIN �QUOTE @FS-ACC>>
 "<ser>"
 	"ser" <f:270850> <sH> <sA> <fr:100> <mv> V INF @ICL-AUX<
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<morra>"
 	"morrer" <fr:95> <f:115> <sA> <de^vp> <ink> <sH> <mv> V PR 3S SUBJ VFIN @FS-<ACC
 "<antes>"
@@ -2197,23 +2197,23 @@
 	"seu" <fr:100> <f:198611> <poss 3S> DET M S @>N
 "<projeto>"
 	"projeto" <f:4205> <sem-c> <fr:99> N M S @<ACC
-"<$ï¿½>"
+"<$�>"
 "<$-->"
 "<e>"
 	"e" <fr:100> <f:106999> <*> KC @CO
 "<acha>"
-	"achar" <clb-fs> <f:4055> <vH> <v-cog> <fr:98> <mv> V PR 3S IND VFIN ï¿½QUOTE @FS-ACC>>
+	"achar" <clb-fs> <f:4055> <vH> <v-cog> <fr:98> <mv> V PR 3S IND VFIN �QUOTE @FS-ACC>>
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<senhora>"
 	"senhora" <f:10822> <Htit> <fr:100> N F S @<SUBJ
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @ACC>
 "<esperarei>"
-	"esperar" <fr:100> <f:1> <Rare> <ink> <x> <vH> <mv> V FUT 1S IND VFIN ï¿½NP-CLOSE @FS-N< %EMO:DESEJO %EMO:ESPERANCA %DIZER
+	"esperar" <fr:100> <f:1> <Rare> <ink> <x> <vH> <mv> V FUT 1S IND VFIN �NP-CLOSE @FS-N< %EMO:DESEJO %EMO:ESPERANCA %DIZER
 "<$,>"
 "<sabe>"
-	"saber" <fr:100> <f:16502> <IA> <a+INF> <sH> <v-cog> <fmc> <mv> V PR 3S IND VFIN ï¿½V-QUOTE @FMV
+	"saber" <fr:100> <f:16502> <IA> <a+INF> <sH> <v-cog> <fmc> <mv> V PR 3S IND VFIN �V-QUOTE @FMV
 "<Deus>"
 	"Deus" <f:6060> <*> <hum> <fr:100> PROP M S @<SUBJ %hum
 "<por>"
@@ -2236,22 +2236,22 @@
 	"a" <f:2126552> <sam-> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
-"<violï¿½ncia>"
-	"violï¿½ncia" <f:10606> <am> <+contra> <D:ju> <fr:100> N F S @P<
+"<viol�ncia>"
+	"viol�ncia" <f:10606> <am> <+contra> <D:ju> <fr:100> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
-"<paixï¿½o>"
-	"paixï¿½o" <f:2643> <am> <percep-f> <fr:100> N F S @P< %EMO:AMOR
+"<paix�o>"
+	"paix�o" <f:2643> <am> <percep-f> <fr:100> N F S @P< %EMO:AMOR
 "<$?>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<o>"
@@ -2261,7 +2261,7 @@
 "<amor>"
 	"amor" <f:5563> <am> <D:myt> <H> <ac> <+a> <fr:100> N M S @SUBJ> %EMO:AMOR
 "<a>"
-	"a" <f:2126552> <fr:28> PRP ï¿½NP-CLOSE @N<
+	"a" <f:2126552> <fr:28> PRP �NP-CLOSE @N<
 "<tudo>"
 	"tudo" <f:43947> <quant0> <fr:100> SPEC M S @P<
 "<resiste>"
@@ -2285,24 +2285,24 @@
 
 "<tenha>"
 	"ter" <fr:100> <f:111> <*> <vt> <vUK> <ink> <fmc> <mv> V PR 1/3S SUBJ VFIN @FMV
-"<fï¿½>"
-	"fï¿½" <f:2694> <percep-f> <am> <fr:100> N F S @<ACC %EMO:ESPERANCA
+"<f�>"
+	"f�" <f:2694> <percep-f> <am> <fr:100> N F S @<ACC %EMO:ESPERANCA
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<constï¿½ncia>"
-	"constï¿½ncia" <f:104> <am> <fr:100> N F S @SUBJ>
-"<ï¿½>"
+"<const�ncia>"
+	"const�ncia" <f:104> <am> <fr:100> N F S @SUBJ>
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <fmc> <mv> V PR 3S IND VFIN @FMV
-"<sï¿½>"
-	"sï¿½" <f:100957> <setop> <fr:100> ADV @>N
+"<s�>"
+	"s�" <f:100957> <setop> <fr:100> ADV @>N
 "<o>"
 	"o" <f:5376885> <dem> <fr:98> DET M S @<SC
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <que-hum> <fr:0> SPEC M S �CLB @ACC>
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @DAT>
 "<digo>"
-	"dizer" <fr:100> <f:1716> <vH> <vdt> <v-cog> <ink> <mv> V PR 1S IND VFIN ï¿½NP-CLOSE @FS-N< %DIZER
+	"dizer" <fr:100> <f:1716> <vH> <vdt> <v-cog> <ink> <mv> V PR 1S IND VFIN �NP-CLOSE @FS-N< %DIZER
 "<$.>"
 </s>
 </u>
@@ -2327,8 +2327,8 @@
 "<$!>"
 
 "<$-->"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<vale>"
 	"valer" <fr:34> <f:3428> <vt+QUANT> <vt> <a^xUp> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<zangar->"
@@ -2388,9 +2388,9 @@
 <u>
 <s>
 
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
-"<ï¿½>"
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sN> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<preciso>"
 	"preciso" <f:18114> <nh> <jn> <+INF> <fr:95> ADJ M S @<SC
@@ -2400,27 +2400,27 @@
 <u>
 <s>
 
-"<faï¿½o>"
+"<fa�o>"
 	"fazer" <fr:100> <f:594> <*> <vt> <D:tea> <sH> <ink> <sA> <fmc> <mv> V PR 1S IND VFIN @FMV
 "<todo=o>"
 	"todo=o" <integr> <quant2> DET M S @>N
 "<gosto>"
 	"gosto" <f:4081> <am> <fr:69> N M S @<ACC %EMO:SATISFEITO
 "<em>"
-	"em" <f:2978362> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"em" <f:2978362> <fr:100> PRP �NP-CLOSE @N<
 "<cair>"
 	"cair" <f:4762> <ve> <sH> <sA> <fr:97> <mv> V INF @ICL-P<
 "<$,>"
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S DAT @DAT>
 "<escorregar>"
 	"escorregar" <fr:2> <f:2> <vH> <mv> V FUT 3S SUBJ VFIN @FS-<ADVL
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<mï¿½o>"
-	"mï¿½o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<SUBJ
+"<m�o>"
+	"m�o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<SUBJ
 "<$!>"
 </s>
 </u>
@@ -2428,19 +2428,19 @@
 <s>
 
 "<quem>"
-	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S ï¿½CLB @SUBJ>
+	"quem" <Rare> <*> <interr> <hum> <f:0> SPEC M/F S �CLB @SUBJ>
 "<me>"
 	"eu" <f:66998> <fr:100> PERS M/F 1S ACC @ACC>
 "<dera>"
 	"dar" <fr:100> <f:523> <por^vrpK> <sN> <fmc> <mv> V-REGENTE MQP 3S IND VFIN @FMV
-"<atï¿½>"
-	"atï¿½" <f:61688> <+que> <fr:53> PRP @<ADVL
+"<at�>"
+	"at�" <f:61688> <+que> <fr:53> PRP @<ADVL
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<morresse>"
 	"morrer" <fr:100> <f:78> <sA> <de^vp> <ink> <sH> <mv> V-REGIDO IMPF 3S SUBJ VFIN @FS-P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<queda>"
@@ -2473,24 +2473,24 @@
 <u>
 <s>
 
-"<vï¿½>"
-	"vï¿½" <f:70> <*> <fr:26> IN @ADVL
+"<v�>"
+	"v�" <f:70> <*> <fr:26> IN @ADVL
 "<$!>"
 </s>
 </u>
 <u>
 <s>
 
-"<saï¿½>"
+"<sa�>"
 	"sair" <fr:96> <f:110> <*> <ve> <D:ar> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
 "<$;>"
-"<saï¿½>"
+"<sa�>"
 	"sair" <fr:99> <f:286> <ve> <D:ar> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
 "<ridiculamente>"
-	"ridï¿½culo" <f:50> <deadj> <fr:100> ADV @<ADVL
+	"rid�culo" <f:50> <deadj> <fr:100> ADV @<ADVL
 "<$,>"
 "<trepando->"
-	"trepar" <Rare> <hyfen> <vt> <vH> <f:0> <mv> <v-pron> V GER ï¿½CLB @ICL-<ADVL
+	"trepar" <Rare> <hyfen> <vt> <vH> <f:0> <mv> <v-pron> V GER �CLB @ICL-<ADVL
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S ACC @<ACC
 "<por>"
@@ -2511,17 +2511,17 @@
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<levando>"
-	"levar" <f:1839> <vt> <D:tea> <fr:100> <mv> V GER ï¿½CLB @ICL-<ADVL
+	"levar" <f:1839> <vt> <D:tea> <fr:100> <mv> V GER �CLB @ICL-<ADVL
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<desalento>"
 	"desalento" <f:181> <f-psych> <fr:97> N M S @<ACC %EMO:DESESPERO
 "<em>"
-	"em" <f:2978362> <sam-> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"em" <f:2978362> <sam-> <+top> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<coraï¿½ï¿½o>"
-	"coraï¿½ï¿½o" <f:4614> <anorg> <D:F> <D:an> <sf> <do+> <fr:100> N M S @P<
+"<cora��o>"
+	"cora��o" <f:4614> <anorg> <D:F> <D:an> <sf> <do+> <fr:100> N M S @P<
 "<$.>"
 </s>
 </u>
@@ -2543,7 +2543,7 @@
 "<tutor>"
 	"tutor" <f:78> <Hprof> <fr:100> N M S @NPHR
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<os>"
 	"o" <f:1931758> <-sam> <art> <fr:100> DET M P @>N
 "<diabos>"
@@ -2568,15 +2568,15 @@
 <u>
 <s>
 
-"<ignï¿½bil>"
-	"ignï¿½bil" <f:1> <Rare> <*> <h> <jh> <fr:100> ADJ M S @>N
+"<ign�bil>"
+	"ign�bil" <f:1> <Rare> <*> <h> <jh> <fr:100> ADJ M S @>N
 "<maluco>"
 	"maluco" <f:90> <H> <fr:57> N M S @NPHR
 "<$,>"
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @SUBJ>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @SUBJ>
 "<acabava>"
-	"acabar" <fr:100> <f:621> <de^xp> <aux> V IMPF 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"acabar" <fr:100> <f:621> <de^xp> <aux> V IMPF 3S IND VFIN �NP-CLOSE @FS-N<
 "<de>"
 	"de" <f:8537237> <fr:100> PRP @PRT-AUX<
 "<transformar>"
@@ -2596,13 +2596,13 @@
 "<poesia>"
 	"poesia" <f:3617> <domain> <sem-r> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
-"<existï¿½ncia>"
-	"existï¿½ncia" <f:13035> <f> <D:hdl> <fr:100> N F S @P<
+"<exist�ncia>"
+	"exist�ncia" <f:13035> <f> <D:hdl> <fr:100> N F S @P<
 "<$!>"
 
 "<$-->"
@@ -2611,11 +2611,11 @@
 "<vontade>"
 	"vontade" <f:11986> <am> <fr:100> N F S @SUBJ> %EMO:DESEJO
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @SC> @ACC>
+	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S �CLB @SC> @ACC>
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<sentia>"
-	"sentir" <fr:100> <f:816> <vt> <v-cog> <vH> <mv> V IMPF 1S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"sentir" <fr:100> <f:816> <vt> <v-cog> <vH> <mv> V IMPF 1S IND VFIN �NP-CLOSE @FS-N<
 "<era>"
 	"ser" <fr:96> <f:80296> <vK> <sN> <fmc> <mv> V IMPF 1/3S IND VFIN @FMV
 "<de>"
@@ -2636,15 +2636,15 @@
 "<ferozmente>"
 	"feroz" <f:138> <deadj> <fr:100> ADV @<ADVL %EMO:FURIA
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
-"<terrï¿½vel>"
-	"terrï¿½vel" <f:209> <jn> <fr:100> ADJ F S @>N %EMO:MEDO
+"<terr�vel>"
+	"terr�vel" <f:209> <jn> <fr:100> ADJ F S @>N %EMO:MEDO
 "<agonia>"
 	"agonia" <f:398> <percep-f> <fr:98> N F S @P< %EMO:DESESPERO
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S �CLB @ACC>
 "<aquele>"
 	"aquele" <f:26436> <dem> <fr:100> DET M S @>N
 "<monstro>"
@@ -2652,13 +2652,13 @@
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S DAT @DAT>
 "<ferrara>"
-	"ferrar" <f:0> <Rare> <vt> <a^vp> <vH> <mv> V MQP 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"ferrar" <f:0> <Rare> <vt> <a^vp> <vH> <mv> V MQP 3S IND VFIN �NP-CLOSE @FS-N<
 "<em>"
 	"em" <f:2978362> <sam-> <+top> <fr:100> PRP @<ADVL
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<coraï¿½ï¿½o>"
-	"coraï¿½ï¿½o" <f:4614> <anorg> <D:F> <D:an> <sf> <do+> <fr:100> N M S @P<
+"<cora��o>"
+	"cora��o" <f:4614> <anorg> <D:F> <D:an> <sf> <do+> <fr:100> N M S @P<
 "<$!>"
 </s>
 </u>
@@ -2670,15 +2670,15 @@
 "<$-->"
 "<mas>"
 	"mas" <fr:100> <f:116716> <*> KC @CO
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<as>"
 	"elas" <f:15271> <fr:1> PERS F 3P ACC @ACC>
 "<perdes>"
 	"perder" <fr:100> <f:7> <Rare> <vt> <B-Rare> <ink> <fmc> <mv> V PR 2S IND VFIN @FMV
 "<$,>"
-"<miserï¿½vel>"
-	"miserï¿½vel" <f:57> <jh> <jn> <fr:100> ADJ M/F S @<PRED
+"<miser�vel>"
+	"miser�vel" <f:57> <jh> <jn> <fr:100> ADJ M/F S @<PRED
 "<$!>"
 </s>
 </u>
@@ -2686,7 +2686,7 @@
 <s>
 
 "<deixa>"
-	"deixar" <fr:6> <f:15> <*> <xt> <D:bo> <xd> <ink> <fmc> <mv> V IMP 2S VFIN ï¿½COM @FMV
+	"deixar" <fr:6> <f:15> <*> <xt> <D:bo> <xd> <ink> <fmc> <mv> V IMP 2S VFIN �COM @FMV
 "<estar>"
 	"estar" <f:39511> <vi> <fr:100> <mv> V INF @ICL-<ACC
 "<$!>"
@@ -2705,16 +2705,16 @@
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
 "<meus>"
 	"meu" <fr:100> <f:7145> <poss 1S> DET M P @>N
-"<botï¿½es>"
-	"botï¿½o" <f:349> <anbo> <D:bo> <cc-handle> <fr:100> N M P @P<
+"<bot�es>"
+	"bot�o" <f:349> <anbo> <D:bo> <cc-handle> <fr:100> N M P @P<
 "<$.>"
 </s>
 </u>
 <u>
 <s>
 
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @ADVL>
 "<pude>"
 	"poder" <fr:100> <f:590> <ink> <x> <fmc> <aux> V PS 1S IND VFIN @FAUX
 "<comer>"
@@ -2744,10 +2744,10 @@
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
-"<adorï¿½vel>"
-	"adorï¿½vel" <n> <n> <f:5> <jh> <jn> <fr:100> ADJ F S @SUBJ> %EMO:AMOR
+"<ador�vel>"
+	"ador�vel" <n> <n> <f:5> <jh> <jn> <fr:100> ADJ F S @SUBJ> %EMO:AMOR
 "<vizinha>"
-	"vizinho" <f:1492> <jn> <fr:91> ADJ F S ï¿½NP-CLOSE @N<
+	"vizinho" <f:1492> <jn> <fr:91> ADJ F S �NP-CLOSE @N<
 "<falava->"
 	"falar" <fr:100> <f:120> <hyfen> <vH> <v-cog> <vr> <fmc> <mv> <v-pron> V IMPF 3S IND VFIN @FMV %DIZER
 "<me>"
@@ -2820,10 +2820,10 @@
 	"destruir" <f:1991> <vt> <fr:99> <mv> V INF @ICL-<ACC
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
-"<obstï¿½culo>"
-	"obstï¿½culo" <f:1580> <ac> <fr:100> N M S @<ACC
+"<obst�culo>"
+	"obst�culo" <f:1580> <ac> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minha>"
@@ -2843,13 +2843,13 @@
 "<cabo>"
 	"cabo" <f:6527> <cc-handle> <D:geo> <Ltop> <Labs> <cord> <Hprof> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<tutor>"
 	"tutor" <f:78> <Hprof> <fr:100> N M S @P<
 "<de>"
-	"de" <f:8537237> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<Ester>"
 	"Ester" <f:230> <*> <hum> <fr:100> PROP F S @P< %hum
 "<$.>"
@@ -2860,8 +2860,8 @@
 <u>
 <s>
 
-"<jï¿½>"
-	"jï¿½" <f:17268> <*> <setop> <atemp> <fr:100> ADV @ADVL>
+"<j�>"
+	"j�" <f:17268> <*> <setop> <atemp> <fr:100> ADV @ADVL>
 "<o>"
 	"ele" <f:96337> <fr:2> PERS M 3S ACC @ACC>
 "<conhecia>"
@@ -2874,20 +2874,20 @@
 "<encontramos->"
 	"encontrar" <f:0> <hyfen> <vH> <ink> <vr> <fmc> <mv> <v-pron> V PR 1P IND VFIN @FMV
 "<nos>"
-	"nï¿½s" <f:80360> <post> <refl> <fr:100> PERS M/F 1P ACC @<ACC
-"<ï¿½=volta=de>"
-	"ï¿½=volta=de" <sam-> <c> PRP @<ADVL
+	"n�s" <f:80360> <post> <refl> <fr:100> PERS M/F 1P ACC @<ACC
+"<�=volta=de>"
+	"�=volta=de" <sam-> <c> PRP @<ADVL
 "<o>"
 	"o" <f:5376885> <art> <-sam> <fr:98> DET M S @>N
-"<espetï¿½culo>"
-	"espetï¿½culo" <f:748> <sem-w> <fr:100> N M S @P<
+"<espet�culo>"
+	"espet�culo" <f:748> <sem-w> <fr:100> N M S @P<
 "<$,>"
 "<em>"
 	"em" <f:2978362> <+top> <+vej> <fr:100> PRP @<ADVL
 "<caminho>"
 	"caminho" <f:14246> <Lpath> <fr:100> N M S @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<casa>"
 	"casa" <f:24094> <build> <fr:98> N F S @P<
 "<$.>"
@@ -2903,15 +2903,15 @@
 "<rua>"
 	"rua" <f:10617> <Lpath> <fr:100> N F S @SUBJ>
 "<em>"
-	"em" <f:2978362> <fr:100> PRP ï¿½CLB @ADVL>
+	"em" <f:2978362> <fr:100> PRP �CLB @ADVL>
 "<que>"
 	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S @P<
 "<habitava>"
-	"habitar" <fr:100> <f:129> <vt> <ink> <vH> <mv> V IMPF 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"habitar" <fr:100> <f:129> <vt> <ink> <vH> <mv> V IMPF 3S IND VFIN �NP-CLOSE @FS-N<
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
-"<miserï¿½vel>"
-	"miserï¿½vel" <n> <f:57> <jh> <jn> <fr:100> ADJ M S @<ACC
+"<miser�vel>"
+	"miser�vel" <n> <f:57> <jh> <jn> <fr:100> ADJ M S @<ACC
 "<era>"
 	"ser" <fr:96> <f:80296> <vK> <sN> <fmc> <mv> V IMPF 3S IND VFIN @FMV
 "<escusa>"
@@ -2920,9 +2920,9 @@
 	"e" <fr:100> <f:2349620> KC @CO
 "<sombria>"
 	"sombrio" <f:172> <jh> <jn> <fr:100> ADJ F S @<SC %EMO:MEDO
-"<$ï¿½>"
-"<nï¿½o>"
-	"nï¿½o" <f:83174> <*> <dei> <setop> <fr:96> ADV @<ADVL
+"<$�>"
+"<n�o>"
+	"n�o" <f:83174> <*> <dei> <setop> <fr:96> ADV @<ADVL
 "<havia>"
 	"haver" <fr:94> <f:17676> <vUK> <fmc> <aux> V-REGENTE-NEG IMPF 3S IND VFIN @FAUX
 "<que>"
@@ -2934,10 +2934,10 @@
 	"comprar" <fr:100> <f:150> <vt> <ink> <vH> <fmc> <mv> V PS 1S IND VFIN @FMV
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
-"<revï¿½lver>"
-	"revï¿½lver" <f:379> <tool-gun> <fr:100> N M S @<ACC
+"<rev�lver>"
+	"rev�lver" <f:379> <tool-gun> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<seis>"
 	"seis" <f:2657> <card> <fr:91> NUM M P @>N
 "<tiros>"
@@ -2961,14 +2961,14 @@
 "<$-->"
 "<e>"
 	"e" <fr:100> <f:106999> <*> KC @CO
-"<hï¿½>"
+"<h�>"
 	"haver" <fr:62> <f:80812> <ink> <vUK> <de^xp> <fmc> <aux> V PR 3S IND VFIN @FAUX
 "<de>"
 	"de" <f:8537237> <+cloH> <+il> <+hum> <+mat> <+top> <+per> <+feat> <fr:100> PRP @PRT-AUX<
 "<ser>"
 	"ser" <f:270850> <fr:100> <mv> V PR FUTHAVER 3S IND COMP @ICL-AUX<
-"<amanhï¿½>"
-	"amanhï¿½" <f:14618> <dei> <atemp> <fr:97> ADV @<ADVL
+"<amanh�>"
+	"amanh�" <f:14618> <dei> <atemp> <fr:97> ADV @<ADVL
 "<mesmo>"
 	"mesmo" <f:44446> <quant> <setop> <fr:32> ADV @<ADVL
 "<$!>"
@@ -3000,7 +3000,7 @@
 "<resto>"
 	"resto" <f:7371> <amount> <fr:100> N M S @<SUBJ
 "<de>"
-	"de" <+tï¿½j> <quant+> <sam-> PRP ï¿½NP-CLOSE @N<
+	"de" <+t�j> <quant+> <sam-> PRP �NP-CLOSE @N<
 "<esse>"
 	"esse" <dem> <-sam> DET M S @>N
 "<dia>"
@@ -3018,17 +3018,17 @@
 "<arma>"
 	"arma" <f:3100> <tool-gun> <pict> <fr:96> N F S @P<
 "<em>"
-	"em" <f:2978362> <sam-> <+top> <fr:100> PRP ï¿½NP-CLOSE @N<PRED
+	"em" <f:2978362> <sam-> <+top> <fr:100> PRP �NP-CLOSE @N<PRED
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<fundo>"
 	"fundo" <f:8202> <Labs> <D:hdl> <HH> <org> <Lopening> <mon> <fr:92> N M S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
-"<chï¿½cara>"
-	"chï¿½cara" <f:44> <build> <U:QE> <BB> <fr:100> N F S @P<
+"<ch�cara>"
+	"ch�cara" <f:44> <build> <U:QE> <BB> <fr:100> N F S @P<
 "<$;>"
 "<mas>"
 	"mas" <fr:100> <f:225293> KC @CO
@@ -3040,8 +3040,8 @@
 	"o" <f:1296756> <-sam> <art> <fr:100> DET F P @>N
 "<primeiras>"
 	"primeiro" <f:8961> <NUM-ord> <jn> <fr:98> ADJ F P @>N
-"<detonaï¿½ï¿½es>"
-	"detonaï¿½ï¿½o" <f:30> <event> <fr:100> N F P @P<
+"<detona��es>"
+	"detona��o" <f:30> <event> <fr:100> N F P @P<
 "<os>"
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
 "<vizinhos>"
@@ -3053,8 +3053,8 @@
 	"intervir" <fr:100> <f:844> <vi> <vH> <fmc> <mv> V PS 3S IND VFIN @FMV
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<polï¿½cia>"
-	"polï¿½cia" <f:17878> <HH> <fr:90> N F S @<SUBJ
+"<pol�cia>"
+	"pol�cia" <f:17878> <HH> <fr:90> N F S @<SUBJ
 "<$,>"
 "<e>"
 	"e" <fr:100> <f:2349620> <clb> KC @CO
@@ -3077,7 +3077,7 @@
 "<bode>"
 	"bode" <f:68> <Azo> <BR.con> <Hattr> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<tijuca>"
@@ -3094,16 +3094,16 @@
 	"meu" <fr:100> <f:23561> <poss 1S> DET M S @>N
 "<sinistro>"
 	"sinistro" <f:187> <jh> <jn> <fr:25> ADJ M S @>N
-"<exercï¿½cio>"
-	"exercï¿½cio" <f:7722> <activity> <D:hdl> <act-d> <per> <fr:100> N M S @<ACC
+"<exerc�cio>"
+	"exerc�cio" <f:7722> <activity> <D:hdl> <act-d> <per> <fr:100> N M S @<ACC
 "<em>"
 	"em" <f:2978362> <sam-> <+top> <fr:100> PRP @<ADVL
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<hotel>"
 	"hotel" <f:4817> <inst> <fr:100> N M S @P<
-"<Jordï¿½o>"
-	"Jordï¿½o" <f:2570> <*> <heur> <fr:100> PROP M S ï¿½NP-CLOSE @N< %inst
+"<Jord�o>"
+	"Jord�o" <f:2570> <*> <heur> <fr:100> PROP M S �NP-CLOSE @N< %inst
 "<$.>"
 </s>
 </u>
@@ -3122,10 +3122,10 @@
 	"transferir" <f:1038> <vH> <fr:100> <mv> V PCP M S @IMV
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
-"<terrï¿½vel>"
-	"terrï¿½vel" <f:209> <jh> <jn> <fr:100> ADJ M S @>N %EMO:MEDO
-"<desï¿½gnio>"
-	"desï¿½gnio" <f:251> <sem-c> <fr:100> N M S @<SUBJ
+"<terr�vel>"
+	"terr�vel" <f:209> <jh> <jn> <fr:100> ADJ M S @>N %EMO:MEDO
+"<des�gnio>"
+	"des�gnio" <f:251> <sem-c> <fr:100> N M S @<SUBJ
 "<para>"
 	"para" <f:965269> <fr:100> PRP @<ADVL
 "<mais>"
@@ -3145,21 +3145,21 @@
 "<dias>"
 	"dia" <f:50021> <temp> <dur> <per> <unit> <fr:100> N M P @<SC
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<vida>"
 	"vida" <f:42934> <ax> <per> <fr:100> N F S @P<
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S ï¿½CLB @ACC>
+	"que" <clb-fs> <f:0> <rel> <fr:0> SPEC M S �CLB @ACC>
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<concedia>"
-	"conceder" <fr:100> <f:87> <vH> <a^vtp> <mv> V IMPF 1S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"conceder" <fr:100> <f:87> <vH> <a^vtp> <mv> V IMPF 1S IND VFIN �NP-CLOSE @FS-N<
 "<a>"
 	"a" <f:2126552> <sam-> <fr:100> PRP @<PIV
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<desgraï¿½ado>"
-	"desgraï¿½ado" <f:55> <H> <fr:55> N M S @P< %EMO:INFELIZ
+"<desgra�ado>"
+	"desgra�ado" <f:55> <H> <fr:55> N M S @P< %EMO:INFELIZ
 "<$.>"
 </s>
 </u>
@@ -3175,7 +3175,7 @@
 "<fim>"
 	"fim" <f:34801> <temp> <event> <sem-c> <fr:100> N M S @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<uma>"
 	"um" <f:79319> <card> <fr:9> NUM F S @>N
 "<semana>"
@@ -3193,7 +3193,7 @@
 "<receio>"
 	"receio" <f:2349> <am> <+de> <+de+que+SUBJ> <+de+INF> <fr:94> N M S @P< %EMO:MEDO
 "<de>"
-	"de" <f:8537237> <+per> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <+per> <fr:100> PRP �NP-CLOSE @N<
 "<perder>"
 	"perder" <f:9998> <vt> <fr:98> <mv> V INF @ICL-P<
 "<a>"
@@ -3214,14 +3214,14 @@
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<meu>"
 	"meu" <fr:100> <f:23561> <poss 1S> DET M S @>N
-"<cï¿½modo>"
-	"cï¿½modo" <f:17> <am> <fr:57> N M S @P<
+"<c�modo>"
+	"c�modo" <f:17> <am> <fr:57> N M S @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<rapaz>"
 	"rapaz" <f:2278> <Hbio> <U:L> <fr:100> N M S @P<
 "<solteiro>"
-	"solteiro" <f:96> <h> <jh> <fr:38> ADJ M S ï¿½NP-CLOSE @N<
+	"solteiro" <f:96> <h> <jh> <fr:38> ADJ M S �NP-CLOSE @N<
 "<$;>"
 "<acendi>"
 	"acender" <fr:100> <f:5> <Rare> <vt> <ink> <fmc> <mv> V PS 1S IND VFIN @FMV
@@ -3238,8 +3238,8 @@
 	"em" <f:2978362> <sam-> <+top> <fr:100> PRP @<ADVL
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
-"<canapï¿½>"
-	"canapï¿½" <f:9> <furn> <fr:100> N M S @P<
+"<canap�>"
+	"canap�" <f:9> <furn> <fr:100> N M S @P<
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
 "<dispus->"
@@ -3269,9 +3269,9 @@
 	"mas" <fr:100> <f:116716> <*> KC @CO
 "<$,>"
 "<pensei>"
-	"pensar" <fr:100> <f:1003> <vH> <vt> <ink> <v-cog> <fmc> <mv> V PS 1S IND VFIN ï¿½QUE @FMV %DIZER
-"<jï¿½>"
-	"jï¿½" <f:167681> <setop> <atemp> <fr:100> ADV @<ADVL
+	"pensar" <fr:100> <f:1003> <vH> <vt> <ink> <v-cog> <fmc> <mv> V PS 1S IND VFIN �QUE @FMV %DIZER
+"<j�>"
+	"j�" <f:167681> <setop> <atemp> <fr:100> ADV @<ADVL
 "<a>"
 	"a" <f:2126552> <sam-> <fr:100> PRP @<ADVL
 "<a>"
@@ -3280,15 +3280,15 @@
 	"noite" <f:29931> <per> <temp> <fr:100> N F S @P<
 "<$,>"
 "<quem>"
-	"quem" <clb-fs> <interr> <hum> <f:0> SPEC M/F S ï¿½CLB @SUBJ>
+	"quem" <clb-fs> <interr> <hum> <f:0> SPEC M/F S �CLB @SUBJ>
 "<sabe>"
 	"saber" <fr:100> <f:16502> <vt> <sN> <a+INF> <v-cog> <+interr> <IA> <mv> V PR 3S IND VFIN @FS-<ACC
 "<se>"
-	"se" <clb-fs> <f:111671> <v+interr+> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <v+interr+> <fr:14> KS �CLB @SUB
 "<Ester>"
 	"Ester" <f:230> <*> <hum> <fr:100> PROP F S @SUBJ> %hum
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<exagerou>"
 	"exagerar" <fr:100> <f:71> <vt> <vH> <mv> V PS 3S IND VFIN @FS-<ACC
 "<a>"
@@ -3300,28 +3300,28 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<ela>"
 	"ela" <f:5676> <*> <fr:100> PERS F 3S NOM @SUBJ>
-"<ï¿½>"
-	"ser" <fr:100> <f:638053> <vK> <sN> <fmc> <mv> V PR 3S IND VFIN ï¿½QUE @FMV
+"<�>"
+	"ser" <fr:100> <f:638053> <vK> <sN> <fmc> <mv> V PR 3S IND VFIN �QUE @FMV
 "<um>"
 	"um" <f:899603> <arti> <fr:87> DET M S @>N
 "<pouquinho>"
 	"pouquinho" <f:107> <amount> <fr:100> N M S @<SC
 "<imaginosa>"
 	"imaginoso" <f:10> <jn> <fr:100> ADJ F S @<PRED
-"<$ï¿½>"
+"<$�>"
 "<pode>"
-	"poder" <fr:50> <f:3923> <*> <x> <fmc> <aux> V PR 3S IND VFIN ï¿½QUE @FAUX
+	"poder" <fr:50> <f:3923> <*> <x> <fmc> <aux> V PR 3S IND VFIN �QUE @FAUX
 "<ser>"
 	"ser" <f:270850> <sH> <sA> <fr:100> <mv> V INF @ICL-AUX<
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<$,>"
 "<se>"
-	"se" <fr:14> <f:111671> <el-verb> KS ï¿½CLB @SUB
+	"se" <fr:14> <f:111671> <el-verb> KS �CLB @SUB
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
 "<falasse>"
@@ -3334,9 +3334,9 @@
 	"tutor" <f:78> <Hprof> <fr:100> N M S @P<
 "<de=certo=modo>"
 	"de=certo=modo" <adv> PP @<ADVL
-"<$ï¿½>"
+"<$�>"
 "<Hein>"
-	"Hein" <asisprop> <select2> <*> PROP M S ï¿½NP-CLOSE @N< %hum
+	"Hein" <asisprop> <select2> <*> PROP M S �NP-CLOSE @N< %hum
 "<$?>"
 </s>
 </u>
@@ -3351,14 +3351,14 @@
 <u>
 <s>
 
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:83262> <*> <vK> <sN> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<bem>"
 	"bem" <f:53989> <quant> <fr:97> ADV @>A
-"<possï¿½vel>"
-	"possï¿½vel" <f:10486> <nh> <jn> <+que+SUBJ> <fr:100> ADJ M S @<SC
+"<poss�vel>"
+	"poss�vel" <f:10486> <nh> <jn> <+que+SUBJ> <fr:100> ADJ M S @<SC
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<homem>"
@@ -3369,7 +3369,7 @@
 	"convencer" <fr:100> <f:12> <vH> <vr> <de^vtpq> <mv> <v-pron> V IMPF 3S SUBJ VFIN @FS-<SUBJ %DIZER
 "<e>"
 	"e" <fr:100> <f:2349620> KC @CO
-"<$ï¿½>"
+"<$�>"
 "<em>"
 	"em" <f:281574> <*> <fr:100> PRP @<ADVL
 "<todo=o>"
@@ -3378,7 +3378,7 @@
 	"caso" <f:50871> <event> <ac-cat> <sem> <fr:87> N M S @P<
 "<$,>"
 "<que>"
-	"que" <f:0> <rel> <que-n> <fr:0> <no-func> SPEC M S ï¿½CLB @NPHR
+	"que" <f:0> <rel> <que-n> <fr:0> <no-func> SPEC M S �CLB @NPHR
 "<diabo>"
 	"diabo" <f:715> <Hmyth> <do+> <fr:100> N M S @PRED>
 "<$,>"
@@ -3397,12 +3397,12 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<seria>"
 	"ser" <fr:100> <f:3219> <*> <vK> <sN> <ink> <fmc> <mv> V COND 1/3S IND VFIN @FMV
-"<atï¿½>"
-	"atï¿½" <f:55808> <setop> <fr:47> ADV @>A
+"<at�>"
+	"at�" <f:55808> <setop> <fr:47> ADV @>A
 "<muito>"
 	"muito" <f:114190> <quant> <fr:84> ADV @>A
 "<digno>"
@@ -3413,12 +3413,12 @@
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
 "<parte>"
 	"parte" <f:60268> <part> <D:hdl> <amount> <L> <HH> <sem-l> <ac> <fazer+> <fr:96> N F S @P<
-"<$ï¿½>"
+"<$�>"
 "<$-->"
-"<Estï¿½>"
-	"Estï¿½" <asisprop> <select2> <*> PROP F S ï¿½NP-CLOSE @N< %tit
+"<Est�>"
+	"Est�" <asisprop> <select2> <*> PROP F S �NP-CLOSE @N< %tit
 "<dito>"
-	"dito" <f:805> <pre-attr> <jh> <jn> <fr:18> ADJ M S ï¿½NP-LONG @N<
+	"dito" <f:805> <pre-attr> <jh> <jn> <fr:18> ADJ M S �NP-LONG @N<
 "<$!>"
 </s>
 </u>
@@ -3429,13 +3429,13 @@
 	"resolver" <fr:100> <f:199> <ink> <D:ma> <x> <vH> <fmc> <mv> V PS 1S IND VFIN @FMV
 "<$,>"
 "<enterrando>"
-	"enterrar" <f:24> <vt> <fr:100> <mv> V GER ï¿½CLB @ICL-<ADVL
+	"enterrar" <f:24> <vt> <fr:100> <mv> V GER �CLB @ICL-<ADVL
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<cabeï¿½a>"
-	"cabeï¿½a" <f:10225> <anmov> <cc> <pos-soc> <Azo> <fr:100> N F S @<ACC
+"<cabe�a>"
+	"cabe�a" <f:10225> <anmov> <cc> <pos-soc> <Azo> <fr:100> N F S @<ACC
 "<entre>"
-	"entre" <f:173034> <fr:100> PRP ï¿½NP-CLOSE @N< @<ADVL
+	"entre" <f:173034> <fr:100> PRP �NP-CLOSE @N< @<ADVL
 "<os>"
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
 "<travesseiros>"
@@ -3446,14 +3446,14 @@
 <u>
 <s>
 
-"<amanhï¿½>"
-	"amanhï¿½" <f:1617> <*> <dei> <atemp> <fr:100> ADV @ADVL>
+"<amanh�>"
+	"amanh�" <f:1617> <*> <dei> <atemp> <fr:100> ADV @ADVL>
 "<procuro->"
 	"procurar" <fr:100> <f:2> <Rare> <hyfen> <vt> <ink> <vH> <fmc> <mv> V PR 1S IND VFIN @FMV
 "<o>"
 	"ele" <f:96337> <fr:2> PERS M 3S ACC @<ACC
 "<$;>"
-"<faï¿½o->"
+"<fa�o->"
 	"fazer" <fr:100> <f:107> <hyfen> <vt> <D:tea> <ink> <fmc> <mv> V PR 1S IND VFIN @FMV
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @<DAT
@@ -3469,11 +3469,11 @@
 	"formalidade" <f:318> <am> <fr:100> N F P @P<
 "<$;>"
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
 "<o>"
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
-"<estï¿½pido>"
-	"estï¿½pido" <n> <f:329> <jh> <jn> <fr:100> ADJ M S @SUBJ>
+"<est�pido>"
+	"est�pido" <n> <f:329> <jh> <jn> <fr:100> ADJ M S @SUBJ>
 "<negar>"
 	"negar" <fr:2> <f:20> <vH> <vq+IND/SUBJ> <mv> V FUT 3S SUBJ VFIN @FS-ADVL> %DIZER %RELATOINDIRETO
 "<$-->"
@@ -3490,25 +3490,25 @@
 	"e" <fr:100> <f:2349620> KC @CO
 "<$,>"
 "<se>"
-	"se" <clb-fs> <f:111671> <fr:14> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:111671> <fr:14> KS �CLB @SUB
 "<ele>"
 	"ele" <f:76377> <fr:100> PERS M 3S NOM @SUBJ>
 "<$,>"
 "<ainda=assim>"
 	"ainda=assim" <kc> ADV @ADVL>
 "<$,>"
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<ceder>"
 	"ceder" <fr:2> <f:55> <vH> <vi> <mv> V FUT 3S SUBJ VFIN @FS-ADVL
 "<$,>"
-"<entï¿½o>"
-	"entï¿½o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
+"<ent�o>"
+	"ent�o" <f:27782> <dei> <atemp> <kc> <fr:96> ADV @<ADVL
 "<bem>"
 	"bem" <f:53989> <quant> <fr:97> ADV @<ADVL
 "<$-->"
-"<Zï¿½s>"
-	"Zï¿½s" <asisprop> <select2> <*> PROP M/F S ï¿½NP-CLOSE @APP %hum
+"<Z�s>"
+	"Z�s" <asisprop> <select2> <*> PROP M/F S �NP-CLOSE @APP %hum
 "<$!>"
 </s>
 </u>
@@ -3549,7 +3549,7 @@
 "<gravata>"
 	"gravata" <f:574> <cloH-beauty> <D:teks> <fr:100> N F S @P<
 "<branca>"
-	"branco" <f:2129> <col> <jn> <fr:89> ADJ F S ï¿½NP-CLOSE @N<
+	"branco" <f:2129> <col> <jn> <fr:89> ADJ F S �NP-CLOSE @N<
 "<$,>"
 "<entrava>"
 	"entrar" <fr:97> <f:557> <ve> <vH> <fmc> <mv> V IMPF 1S IND VFIN @FMV
@@ -3562,11 +3562,11 @@
 "<sala>"
 	"sala" <f:10602> <Lh> <fr:100> N F S @P<
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
 "<visitas>"
 	"visita" <f:2327> <act-d> <+de+LOC> <fr:100> N F P @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<meu>"
@@ -3595,7 +3595,7 @@
 "<hora>"
 	"hora" <f:15181> <dur> <temp> <num+> <unit> <fr:100> N F S @P<
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<tarde>"
@@ -3606,11 +3606,11 @@
 "<barulho>"
 	"barulho" <f:1317> <percep-l> <sit> <fr:100> N M S @<ACC
 "<de>"
-	"de" <f:8537237> <+il> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<louï¿½a>"
-	"louï¿½a" <f:171> <coll-tool> <tool> <fr:100> N F S @P<
-"<lï¿½>"
-	"lï¿½" <f:22994> <dei> <aloc> <atemp> <fr:100> ADV @<ADVL
+	"de" <f:8537237> <+il> <fr:100> PRP �NP-CLOSE @N<
+"<lou�a>"
+	"lou�a" <f:171> <coll-tool> <tool> <fr:100> N F S @P<
+"<l�>"
+	"l�" <f:22994> <dei> <aloc> <atemp> <fr:100> ADV @<ADVL
 "<dentro>"
 	"dentro" <f:3820> <aloc> <fr:100> ADV @<ADVL
 "<$.>"
@@ -3627,8 +3627,8 @@
 	"o" <f:5376885> <art> <fr:98> DET M S @>N
 "<meu>"
 	"meu" <fr:100> <f:23561> <poss 1S> DET M S @>N
-"<cartï¿½o>"
-	"cartï¿½o" <f:3147> <cm> <cc-r> <fr:100> N M S @<ACC
+"<cart�o>"
+	"cart�o" <f:3147> <cm> <cc-r> <fr:100> N M S @<ACC
 "<$.>"
 </s>
 </u>
@@ -3638,7 +3638,7 @@
 "<meia=hora>"
 	"meia=hora" <dur> <_c> <*> N F S @ADVL>
 "<depois>"
-	"depois" <f:93150> <atemp> <fr:99> ADV ï¿½NP-CLOSE @N< @ADVL>
+	"depois" <f:93150> <atemp> <fr:99> ADV �NP-CLOSE @N< @ADVL>
 "<apareceu->"
 	"aparecer" <fr:100> <f:47> <hyfen> <ve> <sH> <fmc> <mv> V PS 3S IND VFIN @FMV
 "<me>"
@@ -3649,22 +3649,22 @@
 	"velhote" <f:73> <H> <fr:95> N M S @<SUBJ
 "<$,>"
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<PRED
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<PRED
 "<rodaque>"
 	"rodaque" <Rare> <RareBase> <f:0> N M S @P<
 "<branco>"
-	"branco" <f:3237> <col> <jn> <fr:60> ADJ M S ï¿½NP-CLOSE @N<
+	"branco" <f:3237> <col> <jn> <fr:60> ADJ M S �NP-CLOSE @N<
 "<$,>"
 "<chinelas>"
-	"chinela" <f:11> <cloH-shoe> <fr:100> N F P ï¿½NP-CLOSE @N<PRED
+	"chinela" <f:11> <cloH-shoe> <fr:100> N F P �NP-CLOSE @N<PRED
 "<$,>"
 "<sem>"
-	"sem" <f:99855> <fr:24> PRP ï¿½NP-CLOSE @N<PRED @<ADVL
+	"sem" <f:99855> <fr:24> PRP �NP-CLOSE @N<PRED @<ADVL
 "<colete>"
 	"colete" <f:170> <cloH> <D:teks> <fr:96> N M S @P<
 "<$,>"
 "<palitando>"
-	"palitar" <Rare> <vt> <vH> <f:0> <mv> V GER ï¿½CLB @ICL-<ADVL
+	"palitar" <Rare> <vt> <vH> <f:0> <mv> V GER �CLB @ICL-<ADVL
 "<os>"
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
 "<dentes>"
@@ -3680,7 +3680,7 @@
 "<gravidade>"
 	"gravidade" <f:2544> <am> <f> <fr:100> N F S @SUBJ>
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<meu>"
@@ -3706,15 +3706,15 @@
 "<desculpa>"
 	"desculpa" <f:1398> <act-s> <+por> <fr:88> N F S @<ACC
 "<por>"
-	"por" <f:957060> <+INF> <+num> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"por" <f:957060> <+INF> <+num> <fr:100> PRP �NP-CLOSE @N<
 "<me>"
 	"eu" <f:66998> <refl> <fr:100> PERS M/F 1S ACC @ACC>
 "<receber>"
 	"receber" <f:10754> <vt> <vH> <fr:98> <mv> <v-pron> V INF @ICL-P<
-"<tï¿½o>"
-	"tï¿½o" <f:36530> <dem> <quant> <fr:100> ADV @>A
-"<ï¿½=frescata>"
-	"ï¿½=frescata" ADV @<ADVL
+"<t�o>"
+	"t�o" <f:36530> <dem> <quant> <fr:100> ADV @>A
+"<�=frescata>"
+	"�=frescata" ADV @<ADVL
 "<$,>"
 	"$," <co-vfin> PU @CO
 "<ofereceu->"
@@ -3743,7 +3743,7 @@
 "<honra>"
 	"honra" <f:2836> <f-psych> <fr:96> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP �NP-CLOSE @N<
 "<aquela>"
 	"aquele" <f:22509> <-sam> <dem> <fr:100> DET F S @>N
 "<visita>"
@@ -3757,7 +3757,7 @@
 <s>
 
 "<que>"
-	"que" <clb-fs> <f:5473> <*> <fr:74> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:5473> <*> <fr:74> KS �CLB @SUB
 "<$,>"
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @DAT>
@@ -3773,9 +3773,9 @@
 	"de" <f:8537237> <fr:100> PRP @<ADVL
 "<cousa>"
 	"coisa" <ALT:coisa> <f:22211> <cc> <ac> <fr:100> N F S @P<
-"<sï¿½ria>"
-	"sï¿½rio" <f:1918> <jn> <fr:100> ADJ F S ï¿½NP-CLOSE @N<
-"<$ï¿½>"
+"<s�ria>"
+	"s�rio" <f:1918> <jn> <fr:100> ADJ F S �NP-CLOSE @N<
+"<$�>"
 "<$.>"
 </s>
 </u>
@@ -3786,26 +3786,26 @@
 
 "<$-->"
 "<de>"
-	"de" <+tï¿½j> <sam-> PRP @ADVL
+	"de" <+t�j> <sam-> PRP @ADVL
 "<o>"
 	"o" <-sam> DET M S @P<
 "<que>"
-	"que" <clb-fs> <que-hum> <que-n> <rel> SPEC M S ï¿½CLB @ACC>
-"<hï¿½>"
-	"haver" <fr:62> <f:80812> <sH> <vUK> <mv> V PR 3S IND VFIN ï¿½NP-CLOSE @FS-N<
+	"que" <clb-fs> <que-hum> <que-n> <rel> SPEC M S �CLB @ACC>
+"<h�>"
+	"haver" <fr:62> <f:80812> <sH> <vUK> <mv> V PR 3S IND VFIN �NP-CLOSE @FS-N<
 "<de>"
 	"de" <f:8537237> <+hum> <fr:100> PRP @<ADVL
 "<mais>"
 	"muito" <f:326243> <quant> <D:ma> <KOMP> <corr> <fr:24> ADV @>A
-"<sï¿½rio>"
-	"sï¿½rio" <f:2561> <jn> <jh> <fr:97> ADJ M S @P<
+"<s�rio>"
+	"s�rio" <f:2561> <jn> <jh> <fr:97> ADJ M S @P<
 "<$,>"
 "<senhor>"
-	"senhor" <f:25170> <Htit> <+n> <fr:100> N M S ï¿½NP-CLOSE @<SUBJ @N<PRED
+	"senhor" <f:25170> <Htit> <+n> <fr:100> N M S �NP-CLOSE @<SUBJ @N<PRED
 "<comendador>"
-	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S ï¿½NP-CLOSE @N<
+	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S �NP-CLOSE @N<
 "<Furtado>"
-	"Furtado" <asisprop> <select2> <*> PROP M S ï¿½NP-CLOSE @N< %hum
+	"Furtado" <asisprop> <select2> <*> PROP M S �NP-CLOSE @N< %hum
 "<$!>"
 </s>
 </u>
@@ -3817,7 +3817,7 @@
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3S ACC @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minha>"
@@ -3831,7 +3831,7 @@
 <s>
 
 "<de>"
-	"de" <f:8537237> <*> <sam-> <+tï¿½j> <fr:100> PRP @ADVL
+	"de" <f:8537237> <*> <sam-> <+t�j> <fr:100> PRP @ADVL
 "<o>"
 	"o" <f:5376885> <-sam> <art> <fr:100> DET M S @>N
 "<meu>"
@@ -3849,13 +3849,13 @@
 "<se>"
 	"se" <f:667285> <refl> <fr:86> PERS M/F 3S ACC @<ACC
 "<de>"
-	"de" <f:8537237> <sam-> <+tï¿½j> <fr:100> PRP @<PIV
+	"de" <f:8537237> <sam-> <+t�j> <fr:100> PRP @<PIV
 "<a>"
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
-"<prï¿½pria>"
-	"prï¿½prio" <f:9618> <jn> <fr:43> ADJ F S @>N
+"<pr�pria>"
+	"pr�prio" <f:9618> <jn> <fr:43> ADJ F S @>N
 "<vida>"
 	"vida" <f:42934> <ax> <per> <fr:100> N F S @P<
 "<$!>"
@@ -3863,19 +3863,19 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<tenha>"
-	"ter" <fr:100> <f:111> <*> <vt> <vUK> <ink> <fmc> <mv> V PR 1/3S SUBJ VFIN ï¿½QUE @FMV
+	"ter" <fr:100> <f:111> <*> <vt> <vUK> <ink> <fmc> <mv> V PR 1/3S SUBJ VFIN �QUE @FMV
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<bondade>"
 	"bondade" <f:468> <am> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <fr:100> PRP ï¿½NP-CLOSE @N<
-"<pï¿½r>"
-	"pï¿½r" <f:11068> <vta+DIR> <vta+LOC> <fr:97> <mv> V INF @ICL-P<
+	"de" <f:8537237> <fr:100> PRP �NP-CLOSE @N<
+"<p�r>"
+	"p�r" <f:11068> <vta+DIR> <vta+LOC> <fr:97> <mv> V INF @ICL-P<
 "<os>"
 	"o" <f:1931758> <art> <fr:98> DET M P @>N
 "<pontos>"
@@ -3885,29 +3885,29 @@
 "<os>"
 	"o" <art> <-sam> DET M P @>N
 "<ii>"
-	"i" <ALT:iï¿½> <Rare> <DERS -ï¿½ [DIM]> <f:0> N M P @P<
-"<$ï¿½>"
+	"i" <ALT:i�> <Rare> <DERS -� [DIM]> <f:0> N M P @P<
+"<$�>"
 "<$-->"
 "<venho>"
-	"vir" <fr:100> <f:203> <*> <x> <fmc> <aux> V PR 1S IND VFIN ï¿½QUE @FAUX
+	"vir" <fr:100> <f:203> <*> <x> <fmc> <aux> V PR 1S IND VFIN �QUE @FAUX
 "<pedir->"
 	"pedir" <f:434> <hyfen> <vdt> <D:rl> <vH> <fr:99> <mv> V INF @ICL-AUX< %EMO:HUMILDADE
 "<lhe>"
 	"ele" <f:71390> <fr:100> PERS M/F 3S DAT @<DAT
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
-"<mï¿½o>"
-	"mï¿½o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<ACC
+"<m�o>"
+	"m�o" <f:10524> <anmov> <D:lud> <fr:100> N F S @<ACC
 "<de>"
-	"de" <f:8537237> <+hum> <fr:100> PRP ï¿½NP-CLOSE @N<
+	"de" <f:8537237> <+hum> <fr:100> PRP �NP-CLOSE @N<
 "<sua>"
 	"seu" <fr:100> <f:230315> <poss 3S> DET F S @>N
 "<filha>"
 	"filha" <f:4785> <Hfam> <fr:97> N F S @P<
-"<$ï¿½>"
+"<$�>"
 "<$-->"
 "<Filha>"
-	"Filha" <asisprop> <select2> <*> PROP F S ï¿½NP-CLOSE @N< %hum
+	"Filha" <asisprop> <select2> <*> PROP F S �NP-CLOSE @N< %hum
 "<$?>"
 
 "<$-->"
@@ -3918,16 +3918,16 @@
 	"seu" <fr:100> <f:230315> <poss 3S> DET F S @>N
 "<pupila>"
 	"pupila" <f:33> <an> <D:an> <fr:97> N F S @NPHR
-"<$ï¿½>"
+"<$�>"
 "<$-->"
 "<Pupila>"
-	"Pupila" <asisprop> <select2> <*> PROP F S ï¿½NP-CLOSE @N< %hum
+	"Pupila" <asisprop> <select2> <*> PROP F S �NP-CLOSE @N< %hum
 "<$!>"
 </s>
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<sim>"
@@ -3935,13 +3935,13 @@
 "<$,>"
 "<sua>"
 	"seu" <fr:100> <f:230315> <poss 3S> DET F S @>N
-"<adorï¿½vel>"
-	"adorï¿½vel" <f:5> <jn> <fr:100> ADJ F S @>N %EMO:AMOR
+"<ador�vel>"
+	"ador�vel" <f:5> <jn> <fr:100> ADJ F S @>N %EMO:AMOR
 "<pupila>"
 	"pupila" <f:33> <an> <D:an> <fr:97> N F S @TOP
 "<$,>"
 "<a>"
-	"a" <f:2126552> <fr:28> PRP ï¿½CLB @ADVL>
+	"a" <f:2126552> <fr:28> PRP �CLB @ADVL>
 "<quem>"
 	"quem" <rel> <hum> <f:0> SPEC M/F S/P @P<
 "<amo>"
@@ -3949,7 +3949,7 @@
 "<$,>"
 	"$," <co-vfin> PU @CO
 "<a>"
-	"a" <f:2126552> <fr:28> PRP ï¿½CLB @ADVL>
+	"a" <f:2126552> <fr:28> PRP �CLB @ADVL>
 "<quem>"
 	"quem" <rel> <hum> <f:0> SPEC M/F S/P @P<
 "<idolatro>"
@@ -3977,11 +3977,11 @@
 <s>
 
 "<se>"
-	"se" <clb-fs> <f:41231> <*> <fr:94> KS ï¿½CLB @SUB
+	"se" <clb-fs> <f:41231> <*> <fr:94> KS �CLB @SUB
 "<ela>"
 	"ela" <f:35560> <fr:100> PERS F 3S NOM @SUBJ>
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<o>"
 	"ele" <f:96337> <fr:2> PERS M 3S ACC @ACC>
 "<declarou>"
@@ -3998,10 +3998,10 @@
 <u>
 <s>
 
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:638053> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<porque>"
-	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS ï¿½CLB @SUB
+	"porque" <clb-fs> <f:77310> <+IND> <fr:96> KS �CLB @SUB
 "<receia>"
 	"recear" <fr:100> <f:644> <vt> <ink> <vH> <mv> V PR 3S IND VFIN @FS-<ADVL %EMO:MEDO
 "<com>"
@@ -4016,34 +4016,34 @@
 "<creia>"
 	"crer" <fr:100> <f:38> <vt> <ink> <vq> <v-cog> <vH> <fmc> <mv> V PR 1/3S SUBJ VFIN @FMV
 "<$,>"
-"<porï¿½m>"
-	"porï¿½m" <f:15300> <kc> <post> <fr:100> ADV @<ADVL
+"<por�m>"
+	"por�m" <f:15300> <kc> <post> <fr:100> ADV @<ADVL
 "<$,>"
 "<senhor>"
 	"senhor" <f:25170> <Htit> <fr:100> N M S @VOK
 "<comendador>"
-	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S ï¿½NP-CLOSE @N<
+	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S �NP-CLOSE @N<
 "<$,>"
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
-"<$ï¿½>"
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
+"<$�>"
 "<$-->"
 "<mas>"
 	"mas" <fr:100> <f:116716> <*> KC @CO
 "<$,>"
-"<perdï¿½o>"
-	"perdï¿½o" <f:170> <fr:16> IN @ADVL
+"<perd�o>"
+	"perd�o" <f:170> <fr:16> IN @ADVL
 "<$,>"
 "<eu>"
 	"eu" <f:30073> <fr:100> PERS M/F 1S NOM @SUBJ>
-"<nï¿½o>"
-	"nï¿½o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
+"<n�o>"
+	"n�o" <f:738104> <dei> <setop> <fr:99> ADV @ADVL>
 "<tenho>"
 	"ter" <fr:100> <f:12033> <vt> <sH> <mv> V PR 1S IND VFIN @FS-<ACC
 "<pupila>"
 	"pupila" <f:33> <an> <D:an> <fr:97> N F S @<ACC
 "<nenhuma>"
-	"nenhum" <f:11383> <quant2> <fr:100> DET F S ï¿½NP-CLOSE @N<
+	"nenhum" <f:11383> <quant2> <fr:100> DET F S �NP-CLOSE @N<
 "<$!>"
 
 "<$-->"
@@ -4064,7 +4064,7 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<Ester>"
@@ -4076,7 +4076,7 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<$-->"
 "<sim>"
@@ -4125,16 +4125,16 @@
 <u>
 <s>
 
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:83262> <*> <vK> <sH> <ink> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<essa>"
 	"esse" <f:57186> <dem> <fr:100> DET F S @<SC
 "<que>"
-	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S ï¿½CLB @ACC> @SUBJ>
-"<aï¿½>"
-	"aï¿½" <f:23184> <dei> <aloc> <kc> <fr:99> ADV @SA>
+	"que" <clb-fs> <f:0> <rel> <que-n> <fr:0> SPEC M S �CLB @ACC> @SUBJ>
+"<a�>"
+	"a�" <f:23184> <dei> <aloc> <kc> <fr:99> ADV @SA>
 "<chega>"
-	"chegar" <fr:1> <f:47> <va+DIR> <va+LOC> <sN> <mv> V IMP 2S VFIN ï¿½NP-CLOSE @FS-<SUBJ @FS-N<
+	"chegar" <fr:1> <f:47> <va+DIR> <va+LOC> <sN> <mv> V IMP 2S VFIN �NP-CLOSE @FS-<SUBJ @FS-N<
 "<$!>"
 </s>
 </u>
@@ -4147,7 +4147,7 @@
 "<vendo>"
 	"ver" <f:744> <vH> <vq> <v-cog> <fr:90> <mv> V-REGENTE GER @ICL-<ADVL
 "<que>"
-	"que" <clb-fs> <f:968748> <fr:89> KS ï¿½CLB @SUB
+	"que" <clb-fs> <f:968748> <fr:89> KS �CLB @SUB
 "<a>"
 	"o" <f:5331776> <art> <fr:71> DET F S @>N
 "<minha>"
@@ -4164,8 +4164,8 @@
 	"o" <f:5331776> <-sam> <art> <fr:100> DET F S @>N
 "<saleta>"
 	"saleta" <f:20> <Lh> <fr:100> N F S @P<
-"<contï¿½gua>"
-	"contï¿½guo" <f:183> <nh> <jn> <fr:100> ADJ F S ï¿½NP-CLOSE @N<
+"<cont�gua>"
+	"cont�guo" <f:183> <nh> <jn> <fr:100> ADJ F S �NP-CLOSE @N<
 "<$.>"
 </s>
 </u>
@@ -4182,7 +4182,7 @@
 </u>
 <u>
 <s>
-"<$ï¿½>"
+"<$�>"
 
 "<balbuciou>"
 	"balbuciar" <fr:100> <f:22> <vt> <ink> <v-cog> <vH> <fmc> <mv> V PS 3S IND VFIN @FMV
@@ -4192,7 +4192,7 @@
 	"comendador" <f:169> <Hprof> <U:hist> <fr:100> N M S @<ACC
 "<$,>"
 "<quando>"
-	"quando" <clb-fs> <f:99990> <rel> <ks> <fr:50> ADV ï¿½CLB @ADVL>
+	"quando" <clb-fs> <f:99990> <rel> <ks> <fr:50> ADV �CLB @ADVL>
 "<ela>"
 	"ela" <f:35560> <fr:100> PERS F 3S NOM @SUBJ>
 "<entrou>"
@@ -4208,7 +4208,7 @@
 	"mas" <fr:100> <f:225293> <clb> KC @CO
 "<esta>"
 	"este" <f:162876> <dem> <fr:100> DET F S @SUBJ>
-"<ï¿½>"
+"<�>"
 	"ser" <fr:100> <f:638053> <vK> <sH> <fmc> <mv> V PR 3S IND VFIN @FMV
 "<minha>"
 	"meu" <fr:100> <f:23487> <poss 1S> DET F S @>N
@@ -4219,10 +4219,10 @@
 </u>
 <u>
 
-"<$ï¿½>"
+"<$�>"
 </s>
 <s_frag>
-"<$ï¿½>"
+"<$�>"
 <marca_num="FIM">
 </s>
 </u>

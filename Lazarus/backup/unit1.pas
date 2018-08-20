@@ -5,7 +5,7 @@ unit Unit1;
 interface
 
 uses
-  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, StdCtrls, unix, lclintf;
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, StdCtrls, {$IFDEF LINUX}unix,{$ENDIF} lclintf;
 
 type
 
@@ -35,7 +35,7 @@ procedure TForm1.FormShow(Sender: TObject);
 begin
   if not FileExists('titulos_obras.txt') then
   begin
-    {$IFDEF LINUX}fpsystem('python obrasprog.py'){$ENDIF}
+    {$IFDEF LINUX}fpsystem('python3 obrasprog.py'){$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python obrasprog.py',[]){$ENDIF}
   end;
   ComboBox1.Items.LoadFromFile('titulos_obras.txt');
@@ -46,11 +46,11 @@ var
   Texto: TStringList;
 begin
   Texto := TStringList.Create();
-  if FileExists(ComboBox1.Text+'.vislcg3') then OpenDocument(ComboBox1.Text+'.vislcg3')
+  if FileExists('obras/'+ComboBox1.Text+'.vislcg3') then ShowMessage('OBra "'+ComboBox1.Text+'" já extraída.')
   else
   begin
     Texto.LoadFromFile('extrair_obra.py');
-    Texto.Strings[17] := '	obra = "' + ComboBox1.Text + '"';
+    Texto.Strings[3] := 'OBRA = "' + ComboBox1.Text + '"';
     Texto.SaveToFile('extrair_obra.py');
     {$IFDEF LINUX}fpsystem('python extrair_obra.py');{$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python extrair_obra.py',[]);{$ENDIF}

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #ARQUIVO COM TODAS AS OBRAS DO CORPUS OBRAS
 CORPUS = "OBRAS_completo_VISL.vislcg3"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
@@ -10,7 +12,7 @@ import re
 import os
 
 def leark():
-    arq = open(CORPUS,'r', encoding=CODE)
+    arq = open(CORPUS,'r',encoding=CODE)
     arq = arq.read()
     arq = arq.split('\n')
     return arq
@@ -28,7 +30,7 @@ for i in lk:
 lk2 = '\n'.join(lk2)
     
 print(lk2)
-    
+
 arq = open('titulos_obras.txt','w', encoding=CODEFINAL)
 arq.write(lk2)
 arq.close()

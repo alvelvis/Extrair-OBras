@@ -35,7 +35,7 @@ procedure TForm1.FormShow(Sender: TObject);
 begin
   if not FileExists('titulos_obras.txt') then
   begin
-    {$IFDEF LINUX}fpsystem('python obrasprog.py'){$ENDIF}
+    {$IFDEF LINUX}fpsystem('python3 obrasprog.py'){$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python obrasprog.py',[]){$ENDIF}
   end;
   ComboBox1.Items.LoadFromFile('titulos_obras.txt');
@@ -46,15 +46,15 @@ var
   Texto: TStringList;
 begin
   Texto := TStringList.Create();
-  if FileExists('obras/'+ComboBox1.Text+'.vislcg3') then ShowMessage('OBra "'+ComboBox1.Text+'" já extraída.');
+  if FileExists('obras/'+ComboBox1.Text+'.vislcg3') then ShowMessage('OBra "'+ComboBox1.Text+'" já extraída.')
   else
   begin
     Texto.LoadFromFile('extrair_obra.py');
-    Texto.Strings[3] := 'OBRA = "' + ComboBox1.Text + '"';
+    Texto.Strings[5] := 'OBRA = "' + ComboBox1.Text + '"';
     Texto.SaveToFile('extrair_obra.py');
-    {$IFDEF LINUX}fpsystem('python extrair_obra.py');{$ENDIF}
+    {$IFDEF LINUX}fpsystem('python3 extrair_obra.py');{$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python extrair_obra.py',[]);{$ENDIF}
-    OpenDocument(ComboBox1.Text+'.vislcg3');
+    OpenDocument('obras/'+ComboBox1.Text+'.vislcg3');
     Texto.Free;
   end;
 end;

@@ -1,12 +1,14 @@
 object Form1: TForm1
   Left = 310
-  Height = 240
+  Height = 159
   Top = 145
   Width = 320
+  BorderStyle = bsToolWindow
   Caption = 'Extrair OBras'
-  ClientHeight = 240
+  ClientHeight = 159
   ClientWidth = 320
   OnShow = FormShow
+  Position = poWorkAreaCenter
   LCLVersion = '1.8.2.0'
   object ComboBox1: TComboBox
     Left = 24
