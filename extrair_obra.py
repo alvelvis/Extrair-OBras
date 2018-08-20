@@ -6,6 +6,8 @@ CORPUS = 'OBRAS_completo_VISL.vislcg3'
 OBRA = "Aos_vinte_anos"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
 CODE = "latin-1"
+#CODIFICAÇÃO DA OBRA EXTRAÍDA
+CODEFINAL = "latin-1"
 ###########################################################################
 
 import os
@@ -31,7 +33,7 @@ def main():
     if obra_livro != []:
         if not os.path.exists('obras'):
             os.makedirs('obras')
-        arq2 = open('obras/' + OBRA + '.vislcg3', 'w', encoding=CODE)
+        arq2 = open('obras/' + OBRA + '.vislcg3', 'w', encoding=CODEFINAL)
         arq2.write(obra_livro)
         arq2.close()
         print ('Obra "' + OBRA + '" extraída com sucesso!')
