@@ -1,10 +1,18 @@
+#ARQUIVO COM TODAS AS OBRAS DO CORPUS OBRAS
+CORPUS = 'OBRAS_completo_VISL.vislcg3'
+#OBRA ESPECÍFICA QUE O USUÁRIO QUER EXTRAIR
+OBRA = "A_Mortalha_de_Alzira"
+#CODIFICAÇÃO DO CORPUS ORIGINAL
+CODE = "latin-1"
+###########################################################################
+
 import os
 
-def extrai_obra(obras, obra):
+def extrai_obra(corpus, obra):
     livros = list()
     novoarquivo = list()
-    obras = obras.split('<obra_id=')
-    for i in obras:
+    corpus = corpus.split('<obra_id=')
+    for i in corpus:
         livros.append(i.split('</obra>')[0])
     
     for x in livros:
@@ -14,21 +22,19 @@ def extrai_obra(obras, obra):
     return novoarquivo
 
 
-def main(obra):
-    arq = 'OBRAS_completo_VISL.vislcg3'
-    arq = open(arq, 'r', encoding="latin-1")
+def main():
+    arq = open(CORPUS, 'r', encoding=CODE)
     arq = arq.read()
-    obra_livro = extrai_obra(arq, obra)
+    obra_livro = extrai_obra(arq, OBRA)
     if obra_livro != []:
         if not os.path.exists('obras'):
             os.makedirs('obras')
-        arq2 = open('obras/' + obra + '.vislcg3', 'w', encoding="utf-8")
+        arq2 = open('obras/' + OBRA + '.vislcg3', 'w', encoding=CODE)
         arq2.write(obra_livro)
         arq2.close()
-        print ('Obra "' + obra + '" extraída com sucesso!')
+        print ('Obra "' + OBRA + '" extraída com sucesso!')
     else:
-        print('Obra "' + obra + '" não encontrada.')
+        print('Obra "' + OBRA + '" não encontrada.')
     
 
-obra = "Aos_vinte_anos"
-main(obra)
+main()

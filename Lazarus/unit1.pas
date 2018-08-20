@@ -50,7 +50,7 @@ begin
   else
   begin
     Texto.LoadFromFile('extrair_obra.py');
-    Texto.Strings[32] := 'obra = "' + ComboBox1.Text + '"';
+    Texto.Strings[3] := 'OBRA = "' + ComboBox1.Text + '"';
     Texto.SaveToFile('extrair_obra.py');
     {$IFDEF LINUX}fpsystem('python extrair_obra.py');{$ENDIF}
     {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python extrair_obra.py',[]);{$ENDIF}
