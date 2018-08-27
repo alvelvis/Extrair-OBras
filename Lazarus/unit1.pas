@@ -39,7 +39,7 @@ begin
   if not FileExists('titulos_obras.txt') then
   begin
     {$IFDEF LINUX}fpsystem('python3 obrasprog.py');{$ENDIF}
-    {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python obrasprog.py',[]);{$ENDIF}
+    {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python.exe obrasprog.py',[]);{$ENDIF}
   end;
   ComboBox1.Items.LoadFromFile('titulos_obras.txt');
 end;
@@ -56,7 +56,7 @@ begin
     Texto.Strings[5] := 'OBRA = "' + ComboBox1.Text + '"';
     Texto.SaveToFile('extrair_obra.py');
     {$IFDEF LINUX}fpsystem('python3 extrair_obra.py');{$ENDIF}
-    {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python extrair_obra.py',[]);{$ENDIF}
+    {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python.exe extrair_obra.py',[]);{$ENDIF}
     OpenDocument('obras/'+ComboBox1.Text+'.vislcg3');
     Texto.Free;
   end;
@@ -65,7 +65,7 @@ end;
 procedure TForm1.Button2Click(Sender: TObject);
 begin
   {$IFDEF LINUX}fpsystem('python3 obrasprog.py');{$ENDIF}
-  {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python obrasprog.py',[]);{$ENDIF}
+  {$IFDEF WINDOWS}ExecuteProcess('cmd','/k python.exe obrasprog.py',[]);{$ENDIF}
   ComboBox1.Items.LoadFromFile('titulos_obras.txt');
 end;
 
