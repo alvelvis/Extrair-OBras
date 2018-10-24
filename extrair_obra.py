@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 #ARQUIVO COM TODAS AS OBRAS DO CORPUS OBRAS
-CORPUS = 'OBRAS_completo_VISL.vislcg3'
+CORPUS = 'corpoOBRAS'
 #OBRA ESPECÍFICA QUE O USUÁRIO DESEJA EXTRAIR
-OBRA = "Aos_vinte_anos"
+OBRA = "Aos vinte anos"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
 CODE = "latin-1"
 #CODIFICAÇÃO DA OBRA EXTRAÍDA
@@ -15,13 +15,13 @@ import os
 def extrai_obra(corpus, obra):
     livros = list()
     novoarquivo = list()
-    corpus = corpus.split('<obra_id=')
+    corpus = corpus.split('<obra id=')
     for i in corpus:
         livros.append(i.split('</obra>')[0])
     
     for x in livros:
-        if '<tituloobra_id="' + obra in x:
-            novoarquivo = '"<$START>"' + '\n' + '<obra_id=' + x + '</obra>'
+        if '<tituloobra id="' + obra in x:
+            novoarquivo = '<obra id=' + x + '</obra>' #'"<$START>"' + '\n' + '<obra_id=' + x + '</obra>'
 	
     return novoarquivo
 
@@ -33,7 +33,7 @@ def main():
     if obra_livro != []:
         if not os.path.exists('obras'):
             os.makedirs('obras')
-        arq2 = open('obras/' + OBRA + '.vislcg3', 'w', encoding=CODEFINAL)
+        arq2 = open('obras/' + OBRA + '.txt', 'w', encoding=CODEFINAL)
         arq2.write(obra_livro)
         arq2.close()
         print ('Obra "' + OBRA + '" extraída com sucesso!')

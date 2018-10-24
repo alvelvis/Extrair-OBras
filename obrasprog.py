@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #ARQUIVO COM TODAS AS OBRAS DO CORPUS OBRAS
-CORPUS = "OBRAS_completo_VISL.vislcg3"
+CORPUS = "corpoOBRAS"
 #CODIFICAÇÃO DO CORPUS ORIGINAL
 CODE = "latin-1"
 #CODIFICAÇÃO DA OBRA EXTRAÍDA
@@ -19,7 +19,7 @@ def leark():
 
 lk = list()
 for i in leark():
-    if 'tituloobra_id' in i:
+    if 'tituloobra id' in i:
         lk.append(i)
     
 lk2 = list()
